@@ -7,7 +7,7 @@
 
 **Primär wedge (verifierad kedja):** EXW Stockholm ⇒ fri omsättning ⇒ **tull + ev. AD + CBAM betalas även på den halva som lämnar EU** — tullager/aktiv förädling hade nollat det; ingen drawback ⇒ löpande förlust. Försiktigt: **0,5–0,8 MSEK/år**; AD-belagt = storleksordning mer (sägs kvalitativt).
 
-**Reframe:** CBAM 2026 ≈ **100 kSEK** (faktor 2,5 %) — säg det. 2030 = 48,5 % ⇒ ~2 MSEK/år; datan som byggs nu är prislappen då *(förbehåll: mildringsförslag ligger)*. Actuals är **irrationella 2026** — prioritering, inte insamling, är jobbet; E&K + EN 10204-intygen gör ESMA ovanligt väl positionerat.
+**Reframe:** CBAM 2026 ≈ **låga hundratusental** (faktor 2,5 %) — säg det, med *"ni vet er siffra bättre än jag"*. 2030 = 48,5 % ⇒ ~2 MSEK/år; datan som byggs nu är prislappen då *(förbehåll: mildringsförslag ligger)*. Actuals är **irrationella 2026** — prioritering, inte insamling, är jobbet; E&K + EN 10204-intygen gör ESMA ovanligt väl positionerat.
 
 **Färska kort ingen annan har:** ① Defaultvärdena **rättades 3/8 2026 retroaktivt** (IR 2026/1740) — omräkningsplikt. ② **Bilaga XVII omfattar 7318**: Kommissionens *Exempel 1* på förbjuden import = kinesiska fästelement av ryskt valstråd — MTC-bevisbörda **i dag**, samma intyg ger CBAM-rutt. ③ 7325 (gjutet) utanför CBAM **t.o.m. 2027**, föreslås in 2028. ④ AD-utgång **feb 2027**; scope-reviews dec 2026/jun 2027.
 

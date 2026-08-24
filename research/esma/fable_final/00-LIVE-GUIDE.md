@@ -18,7 +18,7 @@ Delägare (1 av 4) · styrelseledamot · Key Account Manager · **publikt CBAM-a
 5. **"Era kinesiska fästelement — ligger de på producentspecifik antidumpningssats eller på residualen på 86,5?"**
 
 ## SIFFROR JAG FÅR ANVÄNDA
-CBAM-faktor: **2,5 % 2026 → 48,5 % 2030** · cert-pris **~€75/tCO₂e** · tull 7318 **~3,7 %** · AD Kina **22,1 / 46,1 / 48,8 · 39,6 · 86,5 %** (utanför scope: **rostfritt**, **fristående muttrar**, räls, coach screws) · AD-utgång **18/2 2027** *(utgångsnotisen: säg inget förrän OJ-kollad — loggpunkt)* · **NY AD okt 2025: skruv utan huvud 54,7–72,3 %** (KN 7318 15 42/48) · deklarantfrist **31/3 2026 passerad**, handläggning 120–180 dgr · första deklaration **30/9 2027** · certifikatköp från **feb 2027** · ESMA: **354 MSEK, 38 anst** *(rörelseresultatet ~40 MSEK stigande: endast som tyst spärr mot marginalprat — säg det aldrig oombett)*
+CBAM-faktor: **2,5 % 2026 → 48,5 % 2030** · cert-pris **~€75/tCO₂e** · tull 7318 **~3,7 %** · AD Kina **22,1 / 46,1 / 48,8 · 39,6 · 86,5 %** (utanför scope: **rostfritt**, **fristående muttrar**, räls, coach screws) · AD-utgång **18/2 2027** — *säg så här: "om översyn begärs avgörs det i höst, och då löper åtgärderna vidare under översynen"* (notisen: OJ-ref okollad — nämn ej) · **NY AD okt 2025: skruv utan huvud 54,7–72,3 %** (KN 7318 15 42/48) · deklarantfrist **31/3 2026 passerad**, handläggning 120–180 dgr · första deklaration **30/9 2027** · certifikatköp från **feb 2027** · ESMA: **354 MSEK, 38 anst** *(rörelseresultatet ~40 MSEK stigande: endast som tyst spärr mot marginalprat — säg det aldrig oombett)*
 
 ## EXTRA KROK 1 — brickorna *(pengar tillbaka, konkret)*
 > "Har ni importerat brickor från Kina? En rättelse i juli ändrade TARIC-koderna retroaktivt — antidumpningstull som betalats på de gamla koderna ska **återbetalas**. Hur långt bakåt ni når styrs av tullagstiftningens treårsfrist — så det är värt att söka nu, innan äldre deklarationer preskriberas." *(IR 2026/1788 — verifierat)*
@@ -34,7 +34,7 @@ CBAM-faktor: **2,5 % 2026 → 48,5 % 2030** · cert-pris **~€75/tCO₂e** · t
 **"Leverantörslistan är känslig"** → "Behövs inte. Leverantör A, B, C räcker. Jag behöver KN-nummer, land och ton — inte namn."
 
 ## CLOSE *(13.17)*
-> "Mitt förslag: välj en artikel ni köper mycket av från Asien. Mejla mig fyra fält — artikelnummer, KN-nummer, ursprungsland och ungefär hur många ton per år. Ni får tillbaka en sida inom en vecka: vad den artikeln faktiskt kostar er i tull och CBAM i år och 2030, och om något ser fel ut. Säger den inget nytt, så hör du aldrig från mig igen."
+> "Mitt förslag: välj en artikel ni köper mycket av från Asien. Mejla mig fyra fält — artikelnummer, KN-nummer, ursprungsland och ungefär hur många ton per år. Ni får tillbaka en sida inom en vecka: vad artikeln kostar er i tull och CBAM i år och 2030 — inklusive spannet beroende på vilken producentsats den ligger på, för där sitter de stora pengarna — och om något ser fel ut. Säger den inget nytt, så hör du aldrig från mig igen."
 
 **Reserv:** han säger ett KN-nummer + land muntligt nu. **Minsta utfall:** ok att skicka tvåsidig hypotes + återkomst om tre veckor.
 
@@ -43,4 +43,4 @@ CBAM-faktor: **2,5 % 2026 → 48,5 % 2030** · cert-pris **~€75/tCO₂e** · t
 2. **Nämner han att tullager/aktiv förädling redan finns?** (ja = flytta wedge till population-vs-förfarande + AD-satser)
 3. **Klagar han på leverantörsdata inför 2027-deklarationen?** (ja = retainern är öppen — nämn E&K som deras egen fördel)
 
-## ALDRIG: förklara CBAM · överdriva 2026-kostnaden (~100 kSEK, säg det!) · "Kina-ansvarig" · marginalpress (rörelseresultatet STEG) · leverantörslistan · maxbelopp jag inte kan belägga
+## ALDRIG: förklara CBAM · överdriva 2026-kostnaden (*"låga hundratusental — ni vet er siffra bättre än jag"*) · "Kina-ansvarig" · marginalpress (rörelseresultatet STEG) · leverantörslistan · maxbelopp jag inte kan belägga

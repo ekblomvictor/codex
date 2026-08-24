@@ -18,7 +18,7 @@
 >
 > Men EXW Stockholm betyder ju att godset är förtullat och i fri omsättning när det ligger i Spånga. Och då betalar ni tull, eventuell antidumpningstull och — från i år, även om betalningen kommer först 2027 — CBAM, på den del av exporten som lämnar EU. Hur stor den delen är vet bara ni. Hade det legat på tullager hade ni inte betalat något av det på den delen. Och det där går inte att rätta i efterhand — EU har ingen restitution, ingen drawback som i USA — så tullen på det som lämnat EU är borta för gott. Varje månad är förlorade pengar.
 >
-> Och bara så det är sagt: CBAM i sig kostar er nästan ingenting i år — faktorn är två och en halv procent, för er sannolikt runt hundratusen kronor. Alla som ringer er om CBAM-panik har fel. Men faktorn blir 48,5 procent 2030, så det ni bygger i leverantörsdata nu är i praktiken prislappen för 2030.
+> Och bara så det är sagt: CBAM i sig kostar er nästan ingenting i år — faktorn är två och en halv procent, så för ett flöde som ert pratar vi sannolikt låga hundratusental. Ni vet er siffra bättre än jag — poängen är storleksordningen. Alla som ringer er om CBAM-panik har fel. Men faktorn blir 48,5 procent 2030, så det ni bygger i leverantörsdata nu är i praktiken prislappen för 2030.
 >
 > Så min första fråga, den jag lovade: av det som går på export igen från Spånga — hur mycket lämnar EU, och går det ut från fri omsättning eller från ett tullagerförfarande?"
 
@@ -45,7 +45,7 @@
 *(Har han redan sagt att tullager finns → byt "Ett" till: "Då är frågan i stället om CBAM-populationen är avstämd mot förfarandet och om era AD-satser sitter på rätt producent.")*
 
 ## 13.17–13.20 · Close
-> "Mitt förslag är enkelt. Välj en artikel ni köper mycket av från Asien. Mejla mig fyra fält: artikelnummer, KN-nummer ni använder i dag, ursprungsland och ungefär hur många ton per år. Inga leverantörsnamn, inget register. Ni får tillbaka en sida inom en vecka — vad artikeln faktiskt kostar er i tull och CBAM i år och 2030, och om något ser fel ut. Om den inte säger dig något nytt så hör du aldrig från mig igen. Funkar det?"
+> "Mitt förslag är enkelt. Välj en artikel ni köper mycket av från Asien. Mejla mig fyra fält: artikelnummer, KN-nummer ni använder i dag, ursprungsland och ungefär hur många ton per år. Inga leverantörsnamn, inget register. Ni får tillbaka en sida inom en vecka — vad artikeln kostar er i tull och CBAM i år och 2030, inklusive spannet mellan producentsatserna på antidumpningen, för där sitter de stora pengarna. Och om något ser fel ut. Om den inte säger dig något nytt så hör du aldrig från mig igen. Funkar det?"
 
 *(Medvetet vald hyperbol — behålls för kraften i löftet. Daterade återkomstpunkter (AD-utgången 18/2, scope-reviews, 2028) är legitima nya ärenden och bryter det inte.)*
 

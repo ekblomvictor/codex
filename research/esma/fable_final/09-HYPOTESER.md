@@ -33,7 +33,7 @@ Parts-of-general-use tvingar fästelement ut ur maskinkapitlen; kundspecifika de
 
 ## Prio 3 — retainerns innehåll
 
-**H9 · Japansk preferens ej åberopad (conf. 50)** — **mekaniken verifierad (88):** ursprungsförsäkran kan upprättas i efterhand, återbetalning **3 år** bakåt. Bästa kontanta spåret **om** förutsättningarna faller in (Japanflöde finns + preferens ej åberopad) — avgörs av en enda fråga. *"Åberopar ni EPA-preferensen på Japan-flödet?"*
+**H9 · Japansk preferens ej åberopad (conf. 50)** — **mekaniken verifierad (88):** ursprungsförsäkran kan upprättas i efterhand, återbetalning **3 år** bakåt. Bästa kontanta spåret **om** förutsättningarna faller in (Japanflöde finns + preferens ej åberopad + **japanska exportören kan ställa ut försäkran i efterhand**) — avgörs av en fråga och testas i steg 1. *"Åberopar ni EPA-preferensen på Japan-flödet?"*
 **H10 · Omräkningsplikten efter IR 2026/1740 är ogjord (conf. 70)** — rättade defaultvärden retroaktivt från 1/1 2026; felmappade varukoder i gamla tabellen. *"Räknade ni om efter rättelsen den 3 augusti?"*
 **H11 · Kundvänd PCF vänder kostnad till intäkt (conf. 68)** — >200 kunder i fordon/medtech börjar kräva koldioxiddata per artikel; ESMA säljer redan dokumenthantering ⇒ nästa tjänstesteg, prissättningsbart mot kund. *"Har någon större kund börjat begära CO₂-data per artikel?"*
 **H12 · Melt-and-pour-beredskap inför scope-reviews (conf. 50/85)** — fästelement utanför 2026/1384 i dag, men review 31/12 2026 + nedströms 30/6 2027 (uttryckligen inkl. fästelement); 50 % utomkvot om det slår in. Beviskedjan = samma MTC som H6/H7. *"Kan leverantörerna visa var stålet smälts — i dag?"*

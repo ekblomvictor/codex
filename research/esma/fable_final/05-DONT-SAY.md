@@ -34,5 +34,9 @@
 
 | "Ni är 53 i koncernen" / "exakt 50 % exporteras" | Koncernhuvudtal motsägelsefulla (38/53/98); sajten säger "ungefär 50 %" | Säg "38 anställda i bolaget" och "ungefär hälften" |
 
+| **Referenskundens pris (15 kSEK/mån) och produktnisch** | Kommersiellt konfidentiellt + identifierande. Blurtat under prispress detonerar det dessutom 25–40-ankaret | Säg endast: *"en svensk stålimportör, löpande uppdrag"* |
+| **Deras firmateckning/beslutsnivåer** (*"ryms i löpande förvaltning", "ni är fyra ägare så du kan besluta själv"*) | Intern prissättningslogik — sagd högt är den "vi har grävt i er"-effekten | Priset motiveras med värde, aldrig med deras beslutsordning |
+| "CBAM kostar er runt hundratusen" som exakt siffra | Bygger på våra [A]-antaganden — **John kan veta sin verkliga siffra** (kan vara 250–300 kSEK) | *"låga hundratusental — ni vet er siffra bättre än jag; poängen är storleksordningen"* |
+
 ## TONFEL som kostar lika mycket
 Förklara CBAM-grunder för mannen som lämnat två rapporter · fylla tystnad · dra över 13.20 · låtsas vara större än vi är · be om artikelregistret i första mötet.

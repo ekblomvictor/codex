@@ -9,6 +9,8 @@ Steg 2 (konvertering):              löpande trade-operator, 25–40 000 SEK/må
 ```
 **Steg 0 säljs på mötet. Steg 1 säljs på uppföljningsmötet när en-sidan ligger på bordet.** Aldrig tvärtom.
 
+**Spec för en-sidan (steg 0):** källhänvisning per rad · KN-bedömningen märkt *samtalshypotes, ej klassificeringsbesked* · **AD som trescenariotabell (22,1 / 39,6 / 86,5 %)** eftersom producentsatsen inte kan avgöras utan tilläggskod — spannet ÄR insikten · CBAM 2026/2030 med faktor och antaganden synliga. *Räkna med att sidan vidarebefordras till deras speditör — den ska hålla för det.*
+
 ## Steg 1 — scope och deliverables (uppräkningsbara, fasta)
 1. **Artikelmatris** för Asienflödet: artikel → KN (8-siffrig) → CBAM ja/nej → tullsats → AD-status → ursprung → ton/år
 2. **Scope-differens**: artiklar som felaktigt ligger i/utanför CBAM-populationen, med motivering per rad
@@ -33,6 +35,8 @@ Artikelregister (nr, KN, ursprungsland, ton, styckvikt, värde) · 12 mån tulld
 ## Exakt close för steg 1 (på uppföljningsmötet)
 > "En-sidan visade [X]. Samma genomgång på hela Asienflödet tar fyra veckor och kostar 95 000 fast. Hittar vi inte minst det beloppet i dokumenterad effekt betalar ni inget. Ni levererar tre dataset, vi gör resten, och vecka ett får ni första fyndrapporten. Ska vi börja måndag?"
 
+**Avtalsvillkor steg 1 (en rad, sägs öppet):** rådgivande underlag — deklarantansvaret kvarstår hos ESMA; ansvarsbegränsning till arvodet; där bindande verkan behövs används **BKB** (då är myndigheten bunden, inte vi).
+
 ## Konvertering till löpande (steg 2)
 Analysen slutar i en åtgärdslista (BKB-ansökningar, tullagertillstånd, självrättelser, leverantörsdata inför 30/9 2027) som ESMA saknar intern roll att utföra — 38 anställda, ingen tullfunktion. Retainern 25–40 kSEK/mån = nya artiklar klassas vid införande, leverantörsdatainsamling via E&K-spåret, bevakning (AD-utgång feb 2027, stål-scope-review dec 2026, CBAM nedströms 2028), kvartalsrapport till styrelsen. **Ärlig gräns:** fynden verkställs delvis som engångsprojekt (BKB, tullagertillstånd, självrättelse) — de kan köpas var som helst. **Retainern finns för det som aldrig tar slut:** nya artiklar varje vecka, leverantörsdata inför 30/9 2027, och bevakningen av allt som har datum.
 
@@ -45,7 +49,7 @@ Analysen slutar i en åtgärdslista (BKB-ansökningar, tullagertillstånd, själ
 | Actuals vs default-ekonomi | Samma formelverk; hos ESMA dessutom **avstå-2026-beslutet** + landval i defaulttabellen | Samma |
 | Artikel → verklig producent/installation | Hos ESMA **enklare**: E&K (JV sedan 2006) står redan på fabriksgolvet — vi aktiverar en befintlig kanal i stället för att bygga en | **Enklare/större värde** |
 | Leverantörsoutreach + monitoring-plan/MRV | Samma playbook; kinesiska mallar; verifieringsberedskap inför 30/9 2027 | Samma |
-| Klassificering/BKB (hos referensen: stål-inner-cores) | Hos ESMA: 7318-familjen, 7325/7326-gränsen, 84/85/87-gränsen, **BKB-paket** | **Större** (fler koder, mer värde per rätt) |
+| Klassificering/BKB (hos referensen: en specifik stålproduktfamilj) | Hos ESMA: 7318-familjen, 7325/7326-gränsen, 84/85/87-gränsen, **BKB-paket** | **Större** (fler koder, mer värde per rätt) |
 | Stålsafeguards/kvoter | Hos ESMA i dag mest bevakning (fästelement utanför 2026/1384) — men reviews dec 2026/jun 2027 kan dra in dem | Mindre nu, option större |
 | Melt-and-pour + ursprung | **Större hos ESMA**: art. 3g-bevisbördan gäller redan (bilaga XVII, Exempel 1 = deras flöde) + beviskrav 2026/1384 från ~jan 2027 | **Större** |
 | Landed cost / sourcing / prissättning | Samma logik; ESMA:s AD-lager (fyra satser, nya åtgärder, återbetalningar) gör den mer levande | **Större** |

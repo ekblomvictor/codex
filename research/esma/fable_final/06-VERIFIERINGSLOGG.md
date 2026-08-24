@@ -63,7 +63,7 @@ Verdikt: ✅ BEKRÄFTAT · ✅⚠️ DELVIS · ❌ MOTBEVISAT · ❓ OLÖST
 | **CBAM-registrets operatörsportal i drift sedan 1/1 2025**; deklaranter hämtar via Emissions-fliken | 92 | Fabriken registrerar EN gång |
 | Kommissionens operatörsvägledning **på kinesiska**; **tio nya vägledningsdokument 14/8 2026** | 80/90 | Färsk krok + E&K-verktyg |
 | **Tullverkets e-tjänst "Statistik import"**: bolaget drar själv ut sina deklarationsdata till Excel | 90 | Återupplivar mejl-asken, nu verifierad |
-| Japan EPA: ursprungsförsäkran i efterhand + **3 års återbetalningsfrist** | 88 | Bästa kontanta 30-dagarsspåret |
+| Japan EPA: ursprungsförsäkran i efterhand + **3 års återbetalningsfrist** | 88 (mekanismen) | Svensk procedur­detalj overifierad (Sverige-spåret okört); exekvering kräver att **japanska exportören** ställer ut försäkran i efterhand — testas i steg 1 |
 | Mjukvarupriser: CBAMBOO €9k/€19k · Dubrink €1 990 · CBAM Track €79–199/mån; **ingen publicerad konsultretainer** | 80 | Retainer säljs på paketvärde |
 | "CBAMBOSS" | ❌ REFUTERAT | Existerar inte; rätt namn CBAMBOO |
 | 50 t-tröskeln undantar ~182 000 importörer | 80 | Färg till teach-delen |
@@ -72,7 +72,6 @@ Verdikt: ✅ BEKRÄFTAT · ✅⚠️ DELVIS · ❌ MOTBEVISAT · ❓ OLÖST
 Spåret för Tullverket-mekanik kunde inte köras (delad sessionskvot 200/200 förbrukad). Följande förblir **minnesnivå (WORKING HYPOTHESIS, ej sessionkontrollerat)** och får inte sägas som fakta:
 - Tullager-/aktiv förädlingstillstånd: beslut ~120 dgr (UCC art. 22.3), garantikrav, avgifter
 - Tulltillägg 20 % + lindring vid självrättelse; efterkontrollfönster 3(/5) år
-- EU–Japan EPA: ingen REX; exportörens ursprungsförsäkran med corporate number; retro ~3 år
 → Victors 20-minuters spot-check på tullverket.se täcker samtliga (checklistan p. 6).
 
 ## Kvarstående ❓ inför fredag (Victors lista)
