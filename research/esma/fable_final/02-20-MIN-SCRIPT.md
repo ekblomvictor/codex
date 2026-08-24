@@ -36,7 +36,7 @@
 ## 13.13–13.17 · ESMA-hypotesen
 > "Får jag säga vad jag tror om just er, så säger du var jag har fel? Tre saker.
 >
-> Ett: ert dyraste handelsproblem 2026 är inte CBAM — det är sannolikt tullen på återexporten. Försiktigt räknat är den fem till tio gånger större i år, och ligger något av flödet under antidumpning är det betydligt mer än så. Och det går att räkna ut på några veckor med data ni redan har.
+> Ett: ert dyraste handelsproblem 2026 är inte CBAM — det är sannolikt tullen på återexporten. Försiktigt räknat är den fem till åtta gånger större i år, och ligger något av flödet under antidumpning är det betydligt mer än så. Och det går att räkna ut på några veckor med data ni redan har.
 >
 > Två: CBAM blir ert dyraste problem 2030, och det enda som påverkar det är vilken leverantörsdata ni bygger nu — och där har ni faktiskt ett försprång de flesta saknar: ert eget folk i Shenzhen sitter närmare fabrikerna än någon konsult någonsin kommer.
 >

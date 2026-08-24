@@ -13,7 +13,7 @@
 | Realistiskt default/actual för kinesiskt fästelement | **~1,3×** (endast ~10 % av Kinas stål EAF) | [K, härledd] |
 | Kinas ETS | Stål/cement/alu sedan mars 2025, ~CNY 67 ≈ €8,5/t; art. 9-avdrag ej säkrat | [K] |
 | Tull 7318 | ~3,7 % MFN; Kina utan preferens | [K] |
-| AD Kina fästelement | 22,1–48,8 / 39,6 / **86,5 %** (2022/191; 2026/1788-ändring okontrollerad) | [K] |
+| AD Kina fästelement | 22,1 / 46,1 / 48,8 · 39,6 · **86,5 %** (2022/191; **oförändrade av 1788/1785** — brick-kodrättelse resp. ny producent) | [K] |
 | ESMA-volym | "flera tusen ton/år, ~50 % export"; oms. 354 MSEK; inköp ~250–265 MSEK | esma.se + register [K] |
 
 ## Formlerna
@@ -36,7 +36,7 @@ Antag: 4 000 t genom Spånga [K-intervall], 1 360 t asiatiskt i CBAM-scope [A], 
 **2026: ~€9,2k ≈ 100 kSEK** · 2030 (48,5 %): ~€178k ≈ **2,0 MSEK** · 2034: ~€367k ≈ 4,0 MSEK.
 *Säg 2026-siffran högt. Säg 2030 med förbehållet: "om utfasningen står sig — det ligger ett förslag om att mildra den".*
 
-**Actuals-värde (1,3×):** Δ≈0,8 tCO₂e/t ⇒ 2026: ~22 kSEK (**irrationellt att jaga**) · 2030: ~435 kSEK/år · koncentrerat till få fabriker. Rutt-skattning gratis via EN 10204-intygen hos E&K **innan** någon kontaktas.
+**Actuals-värde (1,3×):** Δ≈0,8 tCO₂e/t *(defaultpåslaget utelämnat — konservativt; med +10 % 2026 något högre)* ⇒ 2026: ~22 kSEK (**irrationellt att jaga**) · 2030: ~435 kSEK/år · koncentrerat till få fabriker. Rutt-skattning gratis via EN 10204-intygen hos E&K **innan** någon kontaktas.
 
 **Förfarande (F4):** 400 t × 45 kSEK = 18 MSEK tullvärde ⇒ **~0,67 MSEK/år** vid enbart 3,7 % — *citera "0,5–0,8"*. AD-scenarier nämns kvalitativt, aldrig som siffra.
 

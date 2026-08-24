@@ -39,8 +39,9 @@ Verdikt: ✅ BEKRÄFTAT · ✅⚠️ DELVIS · ❌ MOTBEVISAT · ❓ OLÖST
 | Rostfria fästelement AD | ✅ korr. | Förlängdes 2012, **upphörde ~jan 2017** (ej 2012) — slutsatsen står: inget i kraft i dag |
 | Undantag: rostfritt | ✅ | "other than of stainless steel" i art. 1 |
 | Undantag: rälsbefästning | ✅ | Bekräftat i scope-texten |
+| Undantag: coach screws; fristående muttrar ej i scope | ✅⚠️ (80) | Runda 1-citat av scope-texten: *"wood screws (excluding coach screws), self-tapping screws, other screws and bolts with heads …, and washers"* — muttrar ej uppräknade. Slutkontroll mot art. 1.1 (checklistan p. 1) |
+| MFN-tull 7318 ~3,7 %; 7616 10 ~6 % | ✅⚠️ | Sekundära tulldatabaser; bekräftas i TARIC (checklistan p. 4) |
 | **Undantag: svarvad skruv skaft ≤6 mm** | ⚠️ **MOTSTRIDIGT** | Runda 1-sökning: "ej återfunnet i 2022/191". Runda 2-agent: **finns i art. 1.1 (konf. 92)**. Sannolikt FINNS undantaget (konsistent med 723/2011-linjen), men **läs art. 1.1 direkt före användning**. Tills dess: nämn inte |
-| AD-utgång ~17–18 feb 2027; notice of impending expiry publicerad? | ❓ | Ej återfunnen — kolla OJ C-serien |
 | Stålförordning 2026/1384: 1/7 2026, 18 345 922 t, 50 %, 26 kategorier; fästelement utanför; reviews 31/12 2026 + 30/6 2027 | ✅ | + landkvoter: **IR 2026/1457** (29/6). **Melt-and-pour-bevis fasas in — krav från ~1 jan 2027** (konf. 82) |
 
 ## Nya fynd i runda 2 (handelspolitik)

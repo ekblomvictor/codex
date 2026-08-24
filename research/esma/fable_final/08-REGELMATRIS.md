@@ -39,7 +39,7 @@
 |---|---|---|
 | **Sanktioner art. 3g (833/2014) + bilaga XVII** | ✅ **VERIFIERAT: gäller NU** | Bilaga XVII omfattar 7318; Kommissionens FAQ: kinesiska fästelement av ryskt valstråd = **Exempel 1 på förbjuden import**. ESMA måste kunna visa **MTC-bevis i dag**. Samma intyg ger CBAM-stålrutt. |
 | **Ny stålförordning 2026/1384** | ✅ i kraft 1/7 2026 | 50 % utomkvot, melt-and-pour, 26 kategorier. Fästelement utanför — men scope-review **31/12 2026** och nedströms (uttryckligen inkl. fästelement) **30/6 2027** |
-| **AD-utgång 2022/191** | ⚠️ **18 feb 2027** — notis publicerad, ingen översyn inledd | Påverkar sourcingbeslut nu; översynsfråga avgörs i höst |
+| **AD-utgång 2022/191** | ⚠️ **18 feb 2027** — ingen översyn inledd; utgångsnotis enligt MLex, OJ-referens kontrolleras | Påverkar sourcingbeslut nu; översynsfrågan avgörs i höst |
 | **CBAM nedströms (COM(2025) 989)** | Rådsposition 12/6 2026 | ~180 produkter från **2028** |
 | REACH art. 33 + SCIP | Löpande | **Bly i automatstål/mässing** (CW614N ~3 % Pb; 11SMnPb30) >0,1 % — svarvade detaljer; Cr(VI)-passivering; ELV strängare för fordonskunder ⚠️ ej sessionverifierat |
 | PFAS-restriktion | RAC-yttrande mars 2026 | Zinklamell/friktionsbeläggningar; **ESMA har själva publicerat om PFAS** |

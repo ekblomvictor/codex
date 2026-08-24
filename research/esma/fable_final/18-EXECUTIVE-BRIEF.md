@@ -1,7 +1,7 @@
 # EXECUTIVE BRIEF — en sida
 **ESMA Försäljnings AB · möte fre 28/8 13.00 · John Nyman (cc Magnus Lindström)**
 
-**Bolaget:** komponenthandel sedan 1951 (fästelement→gjutgods→sintring), 354 MSEK, 38 anst, rörelseresultat 40 MSEK ↑, soliditet 52 %. Koncern: Hähle Invest (420 MSEK) inkl. **ESMA Hong Kong** och systerbolaget **E&K, Shenzhen** (QA+samlastning). Importerar från 32 länder (Kina/Taiwan/Japan + DE/CH); **flera tusen ton/år genom Spånga, ~50 % re-export**; levererar **EXW Stockholm**. Ingen tull-/compliancefunktion bland 38 anställda.
+**Bolaget:** komponenthandel sedan 1951 (fästelement→gjutgods→sintring), 354 MSEK, 38 anst, rörelseresultat 40 MSEK ↑, soliditet 52 %. Koncern: Ingenjörsfirman Esma-konsolidering ~420 MSEK (ytterst **Hähle Invest AB**) inkl. **ESMA Hong Kong**; systerbolaget **E&K, Shenzhen** (QA+samlastning). Importerar från 32 länder (Kina/Taiwan/Japan + DE/CH); **flera tusen ton/år genom Spånga, ~50 % re-export**; levererar **EXW Stockholm**. Ingen tull-/compliancefunktion bland 38 anställda.
 
 **Motparten:** John Nyman — **delägare, styrelseledamot, KAM, publikt CBAM-ansvarig** (två rapporter inlämnade). Problem-, data- och budgetägare i en person. Magnus = IT/kvalitet = datamodell + revisionsspår.
 

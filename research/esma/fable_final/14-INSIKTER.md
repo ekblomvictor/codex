@@ -20,7 +20,7 @@
 14. E&K Shenzhen är en orättvis CBAM-fördel: QA på fabriksgolvet = artikel→fabrik-mappningen som alla andra måste gräva fram
 15. Svarvade detaljer kan ha **högre** EF/ton än fästelement (prekursor allokeras på insatsmassa) — deras dyraste CBAM-artiklar är nog inte skruvarna
 16. Rörelseresultatet steg tre år i rad — säljargument är kalkyl, inte kris; 1 %-enhet landed cost ≈ 6–7 % av rörelseresultatet
-17. AD-scope-undantagen (rostfritt, räls, coach screws) = möjliga återbetalningar; ≤6 mm-undantaget var GAMLA förordningen — vanlig felkälla hos rådgivare
+17. AD-scope-undantagen (rostfritt, fristående muttrar, räls, coach screws) = möjliga återbetalningar; ≤6 mm-frågan har motstridiga läsningar — avgörs mot art. 1.1 före mötet, nämns inte innan
 18. Fyra ägare + "två i förening" firmateckning ⇒ prissätt inom VD:s löpande förvaltning; 95 kSEK är ett omdömesbeslut, inte ett styrelsebeslut
 
 19. **Brick-återbetalningen:** IR 2026/1788 rättade AD-TARIC-koder retroaktivt till feb 2022 — betald tull på gamla koder återbetalas. Konkret, ansökningsbar, och exakt den sortens bevakning retainern består av

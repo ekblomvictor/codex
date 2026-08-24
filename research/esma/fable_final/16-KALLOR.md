@@ -16,7 +16,7 @@
 8. **IR (EU) 2025/2621** — defaultvärden (13 566 st), påslag 10/20/30 % [P]
 9. **IR (EU) 2026/1740** (publ. 31/7, i kraft 3/8 2026) — rättade defaultvärden, retroaktiv 1/1 2026 [P]
 10. IR (EU) 2022/191 + konsoliderad 2025-07-29 — AD fästelement Kina; scope-undantag [P]
-11. IR (EU) 2026/1788 + 2026/1785 (23/7 2026) — ändringar av 2022/191, **innehåll oläst** [P, ❓]
+11. IR (EU) 2026/1788 + 2026/1785 (23/7 2026) — **löst:** brick-kodrättelse m. återbetalning resp. ny exporterande producent (39,6 %); satserna oförändrade [P]
 12. **Förordning (EU) 2026/1384** — stålåtgärden: 1/7 2026, 18,3 Mt, 50 %, melt-and-pour, scope-reviews [P]
 13. Förordning 833/2014 **art. 3g + bilaga XVII** (lexparency) + **Kommissionens FAQ om listade varor** (Exempel 1: fästelement) [P]
 14. COM(2025) 989 — CBAM nedströms ~180 produkter 2028, inkl. 7325 [P]
@@ -34,4 +34,4 @@
 24. EU-startups/Tech.eu — Kolum €2,1M [S]; digicust.com/pricing [P för deras pris]
 25. Bufab årsredovisningar + "CBAM-related accruals" [P-bolag, jämförelse]
 
-**Loggade motsägelser** (fullständigt i 06-VERIFIERINGSLOGG): RocketReach-omsättning/titel (förkastade) · 7326 hel/delvis (löst: hel) · ≤6 mm-undantaget (motbevisat för 2022/191) · resultattrend (löst: finansnetto) · 3,167-defaulten (fel objekt).
+**Loggade motsägelser** (fullständigt i 06-VERIFIERINGSLOGG): RocketReach-omsättning/titel (förkastade) · 7326 hel/delvis (löst: hel) · ≤6 mm-undantaget (motstridigt — sannolikt i art. 1.1, oläst i original; avgörs före mötet) · resultattrend (löst: finansnetto) · 3,167-defaulten (fel objekt).

@@ -15,4 +15,4 @@
 7. **Vägen:** fyra fält → en sida → 95 kSEK-analys med garanti → retainer 25–40 kSEK/mån vars innehåll är åtgärdslistan ingen på ESMA har rollen att utföra. Metodbevis: samma arbete som pågår löpande hos referenskunden (svensk stålimportör) — **utan att orealiserade besparingar beskrivs som resultat**.
 
 ## Kvarstående osäkerheter som ändrar bilden om de faller åt fel håll
-Agentur-andelen (nollfrågan) · befintligt tullager (fråga 1) · innehållet i 2026/1788 · exakt 7318/Kina-default ur 1740-bilagan · om expiry review-notis publicerats. Samtliga testbara på minuter i mötet eller via 19-CHECKLISTA före.
+Agentur-andelen (tes-testet) · befintligt tullager (fråga 1) · ≤6 mm-frågan i art. 1.1 · exakt 7318/Kina-default ur 1740-bilagan · OJ-referensen för utgångsnotisen. Samtliga testbara på minuter i mötet eller via 19-CHECKLISTA före.

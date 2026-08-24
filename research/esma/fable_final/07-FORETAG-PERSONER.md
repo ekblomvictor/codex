@@ -28,7 +28,7 @@
 | Soliditet | 52,1 % | 54,8 % | 53,5 % |
 | Anställda | 38 | 37 | 36 |
 
-**Läs trenden rätt:** rörelsen är **stabil och stigande**; fallet i totalresultat är finansnetto (+7,4 → −2,2 MSEK). **Ingen brinnande plattform — ESMA köper på kalkyl, inte panik.**
+**Läs trenden rätt:** omsättningen växte **+48 % 2020→2024** (implicerat FY2020 ≈ 232–239 MSEK; allabolag-uppgift, runda 1) och har sedan planat ut; rörelsen är **stabil och stigande**; fallet i totalresultat är finansnetto (+7,4 → −2,2 MSEK). **Ingen brinnande plattform — ESMA köper på kalkyl, inte panik.**
 Härlett: varulager **~115–125 MSEK** (≈⅓ av omsättningen, största tillgången) · inköpsvolym **~250–265 MSEK/år** ⇒ **1 procentenhet landed cost ≈ 2,5–2,7 MSEK ≈ 6–7 % av rörelseresultatet.** Koncernen (Ingenjörsfirman-konsolidering): 420,1 MSEK, 53 anställda ⇒ ~66 MSEK-gap ≈ HK-armen.
 
 ## Verksamhet — de bärande primärcitaten (esma.se)
