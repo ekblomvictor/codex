@@ -35,13 +35,15 @@ Härlett: varulager **~115–125 MSEK** (≈⅓ av omsättningen, största tillg
 1. *"Importerar från **32 länder**, levererar till 39"*
 2. Spånga-centret: *"flera tusen ton styckegods årligen, **varav ca 50 % exporteras**"* (störst: Nord-/Sydamerika, norra Europa)
 3. *"Vi levererar vanligtvis **EXW Stockholm** — kunden slipper tänka på … **tull** och buffertlager"*
-4. Shenzhen: systerbolaget **E&K** gör **kvalitetssäkring + samlastning**; *"egna logistikcenter i Sverige och Kina"*
+4. Shenzhen: systerbolaget **E&K** — **E & K TECH (Shenzhen) Co., svensk-taiwanesiskt JV grundat 2006 av ESMA och Kuntech**, kontor + lager i Shenzhen — gör **kvalitetssäkring + samlastning**; *"egna logistikcenter i Sverige och Kina"* (konf. 80)
 5. Tillverkare i **Japan, Taiwan, Kina** + producentnätverk Europa (Tyskland/Schweiz)
 6. Fästelement *"från mikroskruv till reaktortankskruv"*, >klass 12.9, alla ytbehandlingar *"från förzinkning till zinklamell"*
 
 Produktfamiljer: fästelement · smide/kallformning · precisionsgjutning · stansning/bockning/fjädrar · sintring (AMES; även Kina) · plast (Vespel®/PUR) · Metal Binder Jetting (nyhet dec 2025).
-Certifieringar: **ISO 9001+14001** (14001 sedan 2006, årlig Intertek-revision) · **EcoVadis Silver** · **UN Global Compact** (2023) · **MMOG/LE**-logistikbedömning. >200 aktiva kunder: fordon (huvudfokus), medicinteknik, verkstad.
-Platser: Spånga (HK+lager) · Göteborg (V. Frölunda) · Nybro (montering via Sinia, 2024) · Shenzhen (E&K) · Hongkong (dotterbolag).
+Certifieringar: **ISO 9001+14001** (14001 sedan 2006, årlig Intertek-revision) · **EcoVadis Silver** · **UN Global Compact** (2023) · **MMOG/LE 97 % A-rating** · **CreditSafe högsta kreditbetyg** (maj 2025). >200 aktiva kunder: fordon (huvudfokus), medicinteknik, verkstad.
+Platser: Spånga (HK+lager) · Göteborg (V. Frölunda) · Nybro (montering via Sinia, 2024) · Shenzhen (E&K) · Hongkong (dotterbolag — HK-registerpost ej återfunnen, roll okänd ❓).
+**Nyheter dossiern först missade:** *"Utökat samarbete med svensk försvarsindustri"* (okt 2024 — försvarsboomen är sannolik tillväxtdrivare + exportkontrollvinkel) · Vespel®-komponenter mot vätgasindustrin · utställare Elmia Subcontractor 2024; **Elmia 2026 = 10–12 nov** (naturlig uppföljningspunkt efter mötet).
+⚠️ Citera inte koncernens "53 anställda" (källorna motsäger varandra: 38/53/98) och säg "ungefär hälften" om exporten, aldrig exakt 50 %.
 
 ## JOHN NYMAN — motparten
 **Delägare (1 av 4) · styrelseledamot · Key Account Manager, Partner · publikt utnämnd "ansvarig för CBAM på ESMA"** (esma.se okt 2024; två CBAM-rapporter inlämnade; deklarantansökan aviserad). f. 1974, Stockholm. john.nyman@esma.se, +46 70 685 73 28.

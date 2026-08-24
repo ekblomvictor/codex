@@ -28,4 +28,8 @@
 21. **Falskt "tullarna avskaffades"-narrativ cirkulerar i Kina** (2026/701 var housekeeping) — leverantörspriser som "sjunker" kan vara felaktig tullkalkyl hos motparten
 22. Melt-and-pour-beviskravet under stålförordningen fasas in mot ~1 jan 2027 — beviskedjan ska byggas i höst, inte i januari
 
+23. **Försvarssamarbetet (okt 2024):** ESMA byggde ut mot svensk försvarsindustri — tillväxtdrivare med budget, och en exportkontroll-/screeningvinkel Bordic kan äga senare
+24. **E&K är ett 2006 grundat svensk-taiwanesiskt JV (ESMA × Kuntech)** — 20 års relation, inte ett nystartat inköpskontor: datavägen in till fabrikerna är på riktigt
+25. **Elmia Subcontractor 10–12 nov 2026** — given uppföljningsarena om fredagsmötet inte konverterar direkt
+
 **Metainsikt:** sju regelverk (CBAM, 3g, REACH/SCIP, ELV, PPWR, ESPR/DPP, kundernas PCF) kräver samma artikelnivåregister — ingen bygger det åt dem, ingen intern roll finns. **CBAM är dörren; registret är huset; retainern är hyran.**

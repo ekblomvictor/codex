@@ -32,5 +32,7 @@
 | "Er speditör gör fel" | Anklaga aldrig deras befintliga partner — säg vad speditörens uppdrag *inte* omfattar. |
 | Egna juridiska garantier ("det här håller i revision, vi tar ansvaret") | Bordic är inte ombud/försäkrat för det. Säg: dokumentation som håller + **BKB flyttar bindningen till myndigheten**. |
 
+| "Ni är 53 i koncernen" / "exakt 50 % exporteras" | Koncernhuvudtal motsägelsefulla (38/53/98); sajten säger "ungefär 50 %" | Säg "38 anställda i bolaget" och "ungefär hälften" |
+
 ## TONFEL som kostar lika mycket
 Förklara CBAM-grunder för mannen som lämnat två rapporter · fylla tystnad · dra över 13.20 · låtsas vara större än vi är · be om artikelregistret i första mötet.
