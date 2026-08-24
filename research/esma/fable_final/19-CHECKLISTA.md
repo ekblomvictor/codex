@@ -11,7 +11,7 @@
 6. Köp **årsredovisningen 2024** (Bolagsverket ~250 kr): varulager + bruttomarginal ersätter våra härledningar; kolla om FY2025 lämnats
 7. **Bolagsverkets e-tjänst verklig huvudman** (gratis): Johns ägarband
 8. LinkedIn: John + Magnus + ESMA-sidan (tenure, aktivitet, rekryteringar)
-9. Läs själv: esma.se CBAM-artikeln, logistiksidan, fasteners-sidan — citaten ska sitta naturligt
+9. Läs själv: esma.se CBAM-artikeln, logistiksidan, fasteners-sidan — **kopiera EXW-meningen ordagrant in i manuset** ("ni skriver ordagrant att …" slår varje parafras)
 ## 🟡 Kan
 10. Bufab ÅR 2025, sök "CBAM" (peer-röst) · EBTI-sök på 7318 · skumma 2026/1384
 ## Fredag 12.45

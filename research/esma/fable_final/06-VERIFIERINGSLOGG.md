@@ -34,7 +34,7 @@ Verdikt: ✅ BEKRÄFTAT · ✅⚠️ DELVIS · ❌ MOTBEVISAT · ❓ OLÖST
 |---|---|---|
 | AD-satser 2022/191 | ✅ korr. | **Jiangsu Yongyi 22,1 % · Ningbo Jinding 46,1 % (ej 46,0) · Wenzhou Junhao 48,8 %** · samarbetande 39,6 % · residual 86,5 % |
 | Innehållet i 2026/1788 | ✅ **LÖST + KORSVERIFIERAT** (två oberoende pass) | Ordagrant belagt: *"Any definitive duty paid … falling within TARIC codes 7318 22 00 31 and 7318 22 00 95 **shall be repaid** in accordance with the applicable customs legislation."* Nya koder …39/…98. 2026/1785 = ny exporterande producent 39,6 % |
-| AD-utgång | ✅ korr. | **18 feb 2027** (ej 17); notice of impending expiry publicerad (MLex); ingen översyn inledd ännu |
+| AD-utgång | ✅ korr. | **18 feb 2027** (ej 17). Utgångsnotis: **rapporterad av MLex men ej återfunnen i OJ** — behandla som sannolik, ej talbar. Ingen översyn inledd ännu |
 | Gjutjärnsartiklar AD | ✅ korr. | Citera **förordning (EU) 2024/770** (scope bredare än brunnslock); rörkopplingar förlängda via 2026/709 |
 | Rostfria fästelement AD | ✅ korr. | Förlängdes 2012, **upphörde ~jan 2017** (ej 2012) — slutsatsen står: inget i kraft i dag |
 | Undantag: rostfritt | ✅ | "other than of stainless steel" i art. 1 |
@@ -75,7 +75,7 @@ Spåret för Tullverket-mekanik kunde inte köras (delad sessionskvot 200/200 f�
 → Victors 20-minuters spot-check på tullverket.se täcker samtliga (checklistan p. 6).
 
 ## Kvarstående ❓ inför fredag (Victors lista)
-1. Innehållet i **2026/1788** (läs art. 1 på EUR-Lex — sannolikt new-exporting-producer)
+0. Räckvidden för brick-återbetalningen: bekräfta att UCC art. 121-treårsfristen (inte förordningens 2022-datum) styr hur långt bakåt återbetalning kan sökas
 2. **7326-undernumren** i bilaga I (läs bilagan direkt)
 3. **Exakt färdigvarudefault 7318/Kina** ur 2025/2621 + 1740-rättelsen (Excel finns publicerad)
 4. Satserna i **TARIC/Tulltaxan** för deras faktiska nummer

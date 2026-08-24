@@ -19,6 +19,6 @@
 
 ## Reservspår om tesen faller
 **A. "Mest agentur — kunden är importör"** → ingen tull/CBAM-skyldighet hos ESMA → *"Då får era kunder problemet, och de kommer be er om datan. Det är en tjänst ni kan sälja — vi bygger den åt er."* (H11)
-**B. "Vi har redan tullager"** → *"Grattis — det har de flesta inte. Då är frågan om CBAM-populationen är avstämd mot förfarandet: det som ligger på tullager ska inte in i deklarationen alls. Och sitter era AD-satser på rätt producent?"* (H2+H3)
+**B. "Vi har redan tullager"** → *"Då ligger ni före de flesta i branschen. Då är frågan om CBAM-populationen är avstämd mot förfarandet: det som ligger på tullager ska inte in i deklarationen alls. Och sitter era AD-satser på rätt producent?"* (H2+H3)
 **C. "Vi importerar mindre än ni tror"** → *"Då är 50-tonströskeln er fråga: under den faller det mesta bort — värt att fastställa ordentligt så ni kan sluta lägga tid på det."* (att bevisa att de INTE behöver oss är också ett uppdrag — och bygger nästa)
-**D. "Bara nyfiken, inget behov"** → *"Tack för rakheten. En fråga: vad hade behövt vara sant för att det varit intressant?"* — anteckna ordagrant, skicka användbar sammanfattning utan pitch.
+**D. "Bara nyfiken, inget behov"** → *"Tack för rakheten. En fråga: vad skulle ha krävts för att det varit relevant för er?"* — anteckna ordagrant, skicka användbar sammanfattning utan pitch.
