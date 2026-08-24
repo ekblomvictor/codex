@@ -33,7 +33,7 @@ Verdikt: ✅ BEKRÄFTAT · ✅⚠️ DELVIS · ❌ MOTBEVISAT · ❓ OLÖST
 | Påstående | Verdikt | Korrigering |
 |---|---|---|
 | AD-satser 2022/191 | ✅ korr. | **Jiangsu Yongyi 22,1 % · Ningbo Jinding 46,1 % (ej 46,0) · Wenzhou Junhao 48,8 %** · samarbetande 39,6 % · residual 86,5 % |
-| Innehållet i 2026/1788 | ✅ **LÖST** | **Retroaktiv rättelse av brick-TARIC-koder under ex 7318 22 00** (nya koder …39/…98), gäller från 2022-02-18 — **AD-tull betald på koderna …31/…95 ska ÅTERBETALAS**. 2026/1785 = ny exporterande producent på 39,6 % |
+| Innehållet i 2026/1788 | ✅ **LÖST + KORSVERIFIERAT** (två oberoende pass) | Ordagrant belagt: *"Any definitive duty paid … falling within TARIC codes 7318 22 00 31 and 7318 22 00 95 **shall be repaid** in accordance with the applicable customs legislation."* Nya koder …39/…98. 2026/1785 = ny exporterande producent 39,6 % |
 | AD-utgång | ✅ korr. | **18 feb 2027** (ej 17); notice of impending expiry publicerad (MLex); ingen översyn inledd ännu |
 | Gjutjärnsartiklar AD | ✅ korr. | Citera **förordning (EU) 2024/770** (scope bredare än brunnslock); rörkopplingar förlängda via 2026/709 |
 | Rostfria fästelement AD | ✅ korr. | Förlängdes 2012, **upphörde ~jan 2017** (ej 2012) — slutsatsen står: inget i kraft i dag |
@@ -46,7 +46,7 @@ Verdikt: ✅ BEKRÄFTAT · ✅⚠️ DELVIS · ❌ MOTBEVISAT · ❓ OLÖST
 ## Nya fynd i runda 2 (handelspolitik)
 | Fynd | Konf. | Betydelse |
 |---|---|---|
-| **IR (EU) 2025/2153 (22 okt 2025): definitiv AD 54,7–72,3 % på SKRUV UTAN HUVUD från Kina** | 92 | Ny åtgärd Opus-rundan missade — stoppskruv/gängstång-familjen; direkt relevant för ESMA:s sortiment |
+| **IR (EU) 2025/2153 (22 okt 2025): definitiv AD 54,7–72,3 % på SKRUV UTAN HUVUD från Kina, KN 7318 15 42 + 7318 15 48**, i kraft 24/10 2025 (provisorisk jun 2025) | 95 ✅ korsverifierad | Undantar: coach/träskruv, skruvkrok/-ring, självgängande, räls. Direkt relevant för stoppskruv/gängstänger i ESMA:s sortiment |
 | **Falskt kinesiskt narrativ:** 2026/701 "avskaffade" INTE fästelements-AD (endast TARIC-housekeeping) | 88 | ESMA:s leverantörer kan tro/hävda att tullarna är borta — varna John |
 | Art. 3g: partnerländer (bilaga XXXVI: Norge, Schweiz) undantagna från bevisplikt | 70 | Schweiz-flödet slipper MTC-krav |
 

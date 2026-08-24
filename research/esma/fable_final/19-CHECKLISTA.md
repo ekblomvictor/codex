@@ -1,6 +1,6 @@
 # Checklista Victor — före fredag
 ## 🔴 Måste (tis–ons, ~2 h)
-1. **EUR-Lex:** läs **IR 2026/1788** skäl+art. — bekräfta brick-kodrättelsen (…39/…98) och **återbetalningsmekaniken** (vilka koder, vilken procedur); läs **2022/191 art. 1.1** och avgör ≤6 mm-frågan slutligt; ögna **IR 2025/2153** (skruv utan huvud — exakt scope + koder)
+1. **EUR-Lex:** läs **2022/191 art. 1.1** och avgör ≤6 mm-frågan slutligt *(brick-återbetalningen i 1788 och 2025/2153-koderna 7318 15 42/48 är redan dubbelverifierade — endast proceduren för återbetalningsansökan kvarstår att slå upp)*
 2. **EUR-Lex:** bilaga I till 2023/956 — ögna raderna **7325/7326** (bekräfta vår slutsats: 7326 helt, 7325 ej)
 3. **IR 2025/2621 + 1740-rättelsen:** slå upp **exakt defaultvärde för 7318 15 / Kina** (Excel publicerad; intervallet är 1,37–8,23 beroende på land)
 4. **Tulltaxan/TARIC:** satser + AD-tilläggskoder för 7318 15-numren

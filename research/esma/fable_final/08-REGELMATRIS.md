@@ -7,7 +7,7 @@
 |---|---|---|---|---|---|---|
 | Fästelement stål | **7318** | ✅ JA | ✅ | ~3,7 % | ⚠️ 22,1–86,5 % | Största posten |
 | — rostfria | 7318 (rostfria u-nr) | ✅ JA | ✅ | ~3,7 % | ❌ **utanför AD-scope** | Kontrollera att AD ej debiterats |
-| — **skruv utan huvud** (stoppskruv/gängstång) | 7318 15 xx | ✅ JA | ✅ | ~3,7 % | ⚠️ **NY AD 54,7–72,3 %** (IR 2025/2153, okt 2025) | Ligger den i deras kalkyl? |
+| — **skruv utan huvud** (stoppskruv/gängstång) | **7318 15 42 / 7318 15 48** | ✅ JA | ✅ | ~3,7 % | ⚠️ **NY AD 54,7–72,3 %** (IR 2025/2153, i kraft 24/10 2025) | Ligger den i deras kalkyl? |
 | — **brickor** | ex 7318 22 00 | ✅ JA | ✅ | ~3,7 % | ⚠️ AD; **koder rättade retroaktivt → återbetalning** (IR 2026/1788) | Konkret ansökan |
 | — coach screws / räls / **fristående muttrar** | 7318 | ✅ JA | ✅ | ~3,7 % | ❌ utanför AD-scope | Scope-texten: 'screws and bolts with heads, washers' — muttrar ingår ej |
 | Fästelement aluminium | 7616 10 00 | ✅ JA | ✅⚠️ | ~6,0 % | – | Glöms ofta i populationen |
