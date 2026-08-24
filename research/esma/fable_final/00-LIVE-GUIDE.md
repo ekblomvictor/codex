@@ -27,6 +27,7 @@ CBAM-faktor: **2,5 % 2026 → 48,5 % 2030** · cert-pris **~€75/tCO₂e** · t
 
 ## OM HAN SÄGER…
 **"Vi har redan tullager"** → "Då är den stora posten tagen — då ligger ni före de flesta i branschen. Då är frågan om CBAM-populationen är avstämd mot förfarandet, för det som ligger på tullager ska inte in i deklarationen alls."
+**"Vi förtullar allt med flit — EXW utan tull är ju vår produkt"** → "Helt rimligt — och exakt därför måste kalkylen göras netto. Läckaget växer tjugo gånger till 2030 via CBAM-delen, så ett upplägg som var rätt 2020 kan bli fel 2028. Blir det netto negativt efter lagerkostnad säger vi det."
 **"Vi har koll på CBAM"** → "Det tror jag. Min fråga är inte om ni rapporterar rätt — utan om ni rapporterar på rätt population, och vad den kostar er 2030."
 **"Vad kostar ni?"** → "Första sidan kostar ingenting — det är så ni testar oss. Ett löpande upplägg ligger långt under vad en Big4-genomgång kostar som engångsprojekt, men den siffran sätter jag först när jag vet att det finns något att hämta hos er."
 **"Hur stora är ni?"** → "Vi är tidiga och grundarledda. Därför kommer jag med en arbetsinsats i stället för en referenslista — ni bedömer oss på resultatet."

@@ -47,6 +47,8 @@
 ## 13.17–13.20 · Close
 > "Mitt förslag är enkelt. Välj en artikel ni köper mycket av från Asien. Mejla mig fyra fält: artikelnummer, KN-nummer ni använder i dag, ursprungsland och ungefär hur många ton per år. Inga leverantörsnamn, inget register. Ni får tillbaka en sida inom en vecka — vad artikeln faktiskt kostar er i tull och CBAM i år och 2030, och om något ser fel ut. Om den inte säger dig något nytt så hör du aldrig från mig igen. Funkar det?"
 
+*(Medvetet vald hyperbol — behålls för kraften i löftet. Daterade återkomstpunkter (AD-utgången 18/2, scope-reviews, 2028) är legitima nya ärenden och bryter det inte.)*
+
 **Ja** → "Toppen. Jag mejlar dig de fyra fälten direkt efter mötet — ska jag ta med Magnus i kopia, så han ser vilken data det gäller?"
 **Tvekan** → "Vi kan göra det ännu enklare: säg bara ett KN-nummer och ett land nu, så tittar jag på det utan att du behöver skicka något."
 **Nej** → "Helt okej. En sista fråga bara, för min egen del: vad skulle ha krävts för att det här skulle vara relevant för er?" *(anteckna ordagrant, tacka, avsluta i tid)*

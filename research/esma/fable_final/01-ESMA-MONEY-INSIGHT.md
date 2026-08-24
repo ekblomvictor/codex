@@ -20,7 +20,7 @@ Det är en Challenger-insikt därför att den (a) kommer från ESMA:s *egna* pub
 | 3 | EXW Stockholm förutsätter att varan är förtullad och i fri omsättning i Spånga | Incoterms/tullogik | **STARK SLUTLEDNING** |
 | 4 | Varor under **tullager eller aktiv förädling** som återexporteras betalar **varken tull, antidumpningstull eller CBAM** | Tullverket (aktiv förädling); EU-kommissionens CBAM-vägledning; finska statsrådet | **VERIFIED — PRIMÄR** |
 | 5 | EU har **ingen drawback** — tull på varor i fri omsättning återfås inte vid senare export | UCC-systematik | **VERIFIED** |
-| 6 | AD-tull på kinesiska stålfästelement: **86,5 % residual / 39,6 % samarbetande / 22,1–48,8 % namngivna (Yongyi 22,1 · Jinding 46,1 · Junhao 48,8)** (förordning (EU) 2022/191) | EUR-Lex | **VERIFIED — PRIMÄR** *(ändring 2026/1788 okontrollerad — se DONT-SAY)* |
+| 6 | AD-tull på kinesiska stålfästelement: **86,5 % residual / 39,6 % samarbetande / 22,1–48,8 % namngivna (Yongyi 22,1 · Jinding 46,1 · Junhao 48,8)** (förordning (EU) 2022/191) | EUR-Lex | **VERIFIED — PRIMÄR** *(satserna oförändrade av sommarens ändringar 1788/1785 — löst i två pass)* |
 | 7 | CBAM-faktorn: **2,5 % 2026 → 48,5 % 2030 → 100 % 2034**; certifikatpris ~€75/tCO₂e | Kommissionen | **VERIFIED** |
 
 ## Ekonomisk mekanism
@@ -41,6 +41,7 @@ Det är en Challenger-insikt därför att den (a) kommer från ESMA:s *egna* pub
 | ESMA är importör i eget namn (inte agentur) | Fråga 2 i liveguiden | Byt spår: kundvänd data/PCF |
 | En väsentlig del av exporten lämnar **EU** (Amerika, Norge, UK — inte bara EU-länder) | Fråga 1 | Wedge krymper; CBAM-population + AD-satser tar över |
 | ESMA saknar tullager/aktiv förädling i dag | Fråga 1 (förfarandet) | Byt till population-vs-förfarande-avstämning — fortfarande vårt jobb |
+| Fri omsättning är inte ett **medvetet val** | Lyssna efter *"vi förtullar allt med flit — kunden slipper tull, det är vår produkt"* | Svar: *"Helt rimligt — därför räknas det netto: läckaget växer 20× till 2030 via CBAM-delen, så ett upplägg som var rätt 2020 kan bli fel 2028. Blir netto negativt efter lagerkostnad säger vi det."* |
 | Volym/värde-antagandena är rimliga | En-artikelanalysen | Justera intervallet med deras data |
 
 ## Två verifierade stödpunkter (nya 2026-08-24)

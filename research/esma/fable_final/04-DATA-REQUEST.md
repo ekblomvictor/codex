@@ -21,4 +21,4 @@
 | 4 | De två CBAM-rapporterna + leverantörsmallar (anonymiserade) | population + datakvalitet |
 | 5 | EN 10204 3.1-intyg topp-20 (finns sannolikt hos E&K) | stålrutt utan leverantörskontakt |
 
-**Vi ber ALDRIG om:** leverantörsnamn/adresser · inköpspriser per leverantör · kundlista · ERP-åtkomst · marginaler. **Säg det oombett — det är starkare än varje NDA-löfte.**
+**Steg 0 och merparten av steg 1 kräver inga leverantörsnamn** — A/B/C räcker; AD-satskontrollen körs mot **TARIC-tilläggskoderna i era egna deklarationer**, inte mot leverantörslistan. Behöver vi någonsin gå djupare säger vi det i förväg och ni väljer. **Vi ber aldrig om:** inköpspriser per leverantör · kundlista · ERP-åtkomst · marginaler. *(Säg det oombett.)*
