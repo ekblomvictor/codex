@@ -1,0 +1,47 @@
+# Money-insikten — den starkaste verifierade Challenger-insikten
+**2026-08-24 · Fable-verifierad · för mötet 28/8**
+
+---
+
+## Insikten i en mening
+
+> **ESMA:s importupplägg är byggt för EU-försäljning — men hälften av godset lämnar EU igen. Om det godset förtullas till fri omsättning vid ankomst betalar ESMA tull, eventuell antidumpningstull och (från 2026) CBAM på varor som aldrig konsumeras i EU — pengar som inte går att återfå i efterhand.**
+
+Det är en Challenger-insikt därför att den (a) kommer från ESMA:s *egna* publicerade uppgifter, (b) inte handlar om CBAM-rapportering — området John redan behärskar — utan om *tullarkitektur*, och (c) implicerar att den största kostnaden inte är den alla pratar om.
+
+---
+
+## Beviskedjan — vad som är VERIFIERAT
+
+| # | Led | Källa | Status |
+|---|---|---|---|
+| 1 | Spånga-centret hanterar *"flera tusen ton styckegods årligen, varav ca 50 % exporteras"*, störst till Nord- och Sydamerika + norra Europa | esma.se (logistiksidan) | **VERIFIED — PRIMÄR** |
+| 2 | ESMA levererar *"vanligtvis EXW Stockholm"* så att kunden *"aldrig behöver tänka på … tull"* | esma.se | **VERIFIED — PRIMÄR** |
+| 3 | EXW Stockholm förutsätter att varan är förtullad och i fri omsättning i Spånga | Incoterms/tullogik | **STARK SLUTLEDNING** |
+| 4 | Varor under **tullager eller aktiv förädling** som återexporteras betalar **varken tull, antidumpningstull eller CBAM** | Tullverket (aktiv förädling); EU-kommissionens CBAM-vägledning; finska statsrådet | **VERIFIED — PRIMÄR** |
+| 5 | EU har **ingen drawback** — tull på varor i fri omsättning återfås inte vid senare export | UCC-systematik | **VERIFIED** |
+| 6 | AD-tull på kinesiska stålfästelement: **86,5 % residual / 39,6 % samarbetande / 22,1–48,8 % namngivna** (förordning (EU) 2022/191) | EUR-Lex | **VERIFIED — PRIMÄR** *(ändring 2026/1788 okontrollerad — se DONT-SAY)* |
+| 7 | CBAM-faktorn: **2,5 % 2026 → 48,5 % 2030 → 100 % 2034**; certifikatpris ~€75/tCO₂e | Kommissionen | **VERIFIED** |
+
+## Ekonomisk mekanism
+
+```
+Årligt läckage = ton_återexport_utanför_EU × värde/ton × (tullsats + ev. AD-sats)
+              + ton_återexport × EF × €75 × CBAM-faktor          ← växer 20× till 2030
+```
+
+**Försiktigt intervall** (endast ordinarie tull 3,7 %, antagna volymer):
+- 300–500 ton/år lämnar EU à ~45 000 SEK/ton ⇒ tullvärde 13–23 MSEK ⇒ **läckage ~0,5–0,8 MSEK/år**
+- **Citera detta intervall — inte mer.** Om delar av flödet är AD-belagt är beloppet en storleksordning större, men det får sägas som *"och ligger något av det under antidumpning pratar vi helt andra belopp"* — aldrig som en siffra.
+
+## Vad som MÅSTE vara sant (och hur det testas i mötet)
+
+| Antagande | Test | Om falskt |
+|---|---|---|
+| ESMA är importör i eget namn (inte agentur) | Fråga 2 i liveguiden | Byt spår: kundvänd data/PCF |
+| En väsentlig del av exporten lämnar **EU** (Amerika, Norge, UK — inte bara EU-länder) | Fråga 1 | Wedge krymper; CBAM-population + AD-satser tar över |
+| ESMA saknar tullager/aktiv förädling i dag | Fråga 1 (förfarandet) | Byt till population-vs-förfarande-avstämning — fortfarande vårt jobb |
+| Volym/värde-antagandena är rimliga | En-artikelanalysen | Justera intervallet med deras data |
+
+## Varför detta slår en ren CBAM-pitch
+CBAM 2026 kostar ESMA i storleksordningen **100 000 kr** (faktor 2,5 %). Att säga det högt — och att peka på en tullpost som sannolikt är 5–8× större *i år* — visar bättre prioritering och ekonomisk analys än varje konkurrent som ringer om "CBAM-compliance". Metodbeviset: exakt denna typ av flödesanalys (klassificering, förfarande, actuals-mot-default, producent-mappning) är vad Bordic redan gör löpande åt sin referenskund, en svensk stålimportör.
