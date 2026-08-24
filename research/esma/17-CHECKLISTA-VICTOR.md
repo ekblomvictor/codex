@@ -8,7 +8,7 @@
 ### 1. Verifiera de fyra siffror som kan fälla oss *(45 min, tisdag)*
 | # | Vad | Var | Varför |
 |---|---|---|---|
-| 1 | **Förordning (EU) 2026/1788** — vad ändrade den i AD-satserna? | EUR-Lex | Vi citerar 22,1/39,6/86,5 %. Ändrades de för fem veckor sedan står vi med fel siffra. |
+| 1 | **Förordning (EU) 2026/1788** — vad ändrade den i AD-satserna? | **eur-lex.europa.eu/eli/reg_impl/2026/1788/oj/eng** | Vi citerar 22,1/39,6/86,5 %. Ändrades de för fem veckor sedan står vi med fel siffra.<br>**Delvis klarlagt:** förordningen finns och **ändrar 2022/191** — men innehållet gick inte att fastställa. **WORKING HYPOTHESIS (60):** sannolikt ett *new exporting producer treatment*-tillägg (samma typ som 2023/2159), dvs. en producent läggs till bilagan på 39,6 % — vilket i så fall **inte** ändrar de tre huvudsatserna. Systerförordning **(EU) 2026/1785** av samma datum finns också. **Öppna länken och läs artikel 1.** |
 | 2 | **Är hela KN 7326 i CBAM bilaga I, eller bara vissa 8-siffriga?** | Bilaga I till 2023/956 | Hela 7325/7326-argumentet vilar på detta |
 | 3 | **Färdigvarudefault för KN 7318** | Kommissionens standardvärden (IR 2025/2621) | 3,167 är råstål — gäller **inte** fästelement |
 | 4 | **Aktuell tullsats KN 7318 + AD-tilläggskoder** | **TARIC / Tulltaxan** | Bekräfta 3,7 % och AD-koderna |

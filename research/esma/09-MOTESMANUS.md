@@ -30,7 +30,7 @@
 
 > "Hej John, tack för att du tog det här. Jag håller mig till tjugo minuter.
 >
-> Jag ska vara rak med att jag har gjort läxan. Jag läste er artikel från i höstas där du är citerad om CBAM — den om att ni lämnat in er andra rapport och ska bli godkänd deklarant. Så jag tänker inte förklara CBAM för dig. Du kan det bättre än de flesta jag pratar med.
+> Jag ska erkänna direkt att jag har gjort läxan. Jag läste er artikel från i höstas där du är citerad om CBAM — den om att ni lämnat in er andra rapport och ska bli godkänd deklarant. Så jag tänker inte förklara CBAM för dig. Du kan det bättre än de flesta jag pratar med.
 >
 > Det jag är nyfiken på är något annat, och det gäller egentligen inte regelverket alls. Får jag ställa en fråga direkt, så får du styra därifrån?"
 
@@ -52,7 +52,7 @@
 >
 > **Det andra är mer omedelbart, och det är egentligen därför jag ville prata med just er.** Ni skriver själva två saker som blir intressanta när man lägger ihop dem. Ni kör flera tusen ton genom Spånga och ungefär hälften går ut på export igen — mycket av det till Nord- och Sydamerika. Och ni skriver att ni levererar EXW Stockholm så att kunden aldrig ska behöva tänka på tull och buffertlager.
 >
-> Det andra förutsätter att varan är förtullad och ligger i fri omsättning i Spånga. Men då betalar ni tull, eventuell antidumpningstull och CBAM även på den halva som sen lämnar EU igen. Under tullager eller aktiv förädling betalar man ingetdera på den delen.
+> Det sista förutsätter ju att varan är förtullad och ligger i fri omsättning redan i Spånga. Men då betalar ni tull, eventuell antidumpningstull och CBAM även på den halva som sen lämnar EU igen. Under tullager eller aktiv förädling betalar man ingetdera på den delen.
 >
 > Och EU har ingen amerikansk drawback — har varan gått i fri omsättning är pengarna borta. Man kan inte hämta dem retroaktivt. Det är därför jag inte ville vänta med att fråga."
 
