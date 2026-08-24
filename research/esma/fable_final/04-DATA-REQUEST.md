@@ -10,7 +10,7 @@
 *Frivilligt, ger extra analys: hållfasthetsklass + ytbehandling (låser systemgränsen), styckvikt (massatest).*
 
 ## Uppföljningsmejlet (samma dag, till John, cc Magnus)
-> Hej John, tack för i dag. De fyra fälten jag behöver: artikelnummer, KN-nummer, ursprungsland, ungefärlig årsvolym i ton. Har du hållfasthetsklass och ytbehandling också blir analysen vassare — då kan jag visa vilka tillverkningssteg som måste ligga i leverantörens siffra. Inga leverantörsnamn behövs. En sak till, oavsett oss: ni kan begära ut era egna 12 månaders importdeklarationer från Tullverket — gratis, och de innehåller förfarandekod, tullvärde och nettovikt, precis det som avgör återexportfrågan. Säg till så skickar jag hur man gör. /Victor
+> Hej John, tack för i dag. De fyra fälten jag behöver: artikelnummer, KN-nummer, ursprungsland, ungefärlig årsvolym i ton. Har du hållfasthetsklass och ytbehandling också blir analysen vassare — då kan jag visa vilka tillverkningssteg som måste ligga i leverantörens siffra. Inga leverantörsnamn behövs. En sak till, oavsett oss: era egna importdeklarationer för de senaste 12 månaderna — via ert ombud eller Tullverket — innehåller förfarandekod, tullvärde och nettovikt, precis det som avgör återexportfrågan. Säg till så visar jag exakt vilka fält som behövs. /Victor
 
 ## Först vid steg 1 (30-dagarsanalysen)
 | Prio | Data | Låser upp |

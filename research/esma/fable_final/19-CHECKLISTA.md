@@ -6,6 +6,7 @@
 4. **Tulltaxan/TARIC:** satser + AD-tilläggskoder för 7318 15-numren
 5. **OJ C-serien:** hämta OJ-referensen för *notice of impending expiry* (utgång **18/2 2027**; notisen finns enligt MLex)
 ## 🟠 Bör (~1,5 h)
+5b. **tullverket.se, 20 min spot-check** (vårt Sverige-spår fick aldrig köras): tullager-/aktiv förädlingstillstånd (garanti, tid), självrättelse/tulltillägg (sats + lindring), och exakt hur ett bolag hämtar sina egna importdeklarationer (Mina sidor/tullräkningsspecifikation) — **innan mejlformuleringen om deklarationsuttag används**
 6. Köp **årsredovisningen 2024** (Bolagsverket ~250 kr): varulager + bruttomarginal ersätter våra härledningar; kolla om FY2025 lämnats
 7. **Bolagsverkets e-tjänst verklig huvudman** (gratis): Johns ägarband
 8. LinkedIn: John + Magnus + ESMA-sidan (tenure, aktivitet, rekryteringar)

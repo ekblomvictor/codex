@@ -53,6 +53,14 @@ Verdikt: ✅ BEKRÄFTAT · ✅⚠️ DELVIS · ❌ MOTBEVISAT · ❓ OLÖST
 ## ESMA-fakta (oförändrat bekräftade)
 354,3/343,7 MSEK 2024 · rörelseresultat 40,1 (stigande serie) · soliditet 52,1 % · 38 anst · 4 verkliga huvudmän inkl. **John Nyman** · John = "Key Account Manager, Partner" + **publikt CBAM-ansvarig (okt 2024, två rapporter)** · E&K Shenzhen · ESMA Hong Kong Ltd · EXW Stockholm-citatet · 32/39 länder · "flera tusen ton, ~50 % export" · ISO 14001 sedan 2006/Intertek · EcoVadis Silver · UNGC 158179 — samtliga ✅ mot register-/primärkällor i första rundan. ❌ RocketReach-uppgifterna (7,7 MUSD; "Area Manager China") förblir förkastade.
 
+## Overifierat spår: svenska myndighetsmekaniker (sökkvot uttömd)
+Spåret för Tullverket-mekanik kunde inte köras (delad sessionskvot 200/200 förbrukad). Följande förblir **minnesnivå (WORKING HYPOTHESIS, ej sessionkontrollerat)** och får inte sägas som fakta:
+- Tullager-/aktiv förädlingstillstånd: beslut ~120 dgr (UCC art. 22.3), garantikrav, avgifter
+- Tulltillägg 20 % + lindring vid självrättelse; efterkontrollfönster 3(/5) år
+- EU–Japan EPA: ingen REX; exportörens ursprungsförsäkran med corporate number; retro ~3 år
+- Exakt e-tjänsteväg för att hämta egna importdeklarationer från Tullverket
+→ Victors 20-minuters spot-check på tullverket.se täcker samtliga (checklistan p. 6).
+
 ## Kvarstående ❓ inför fredag (Victors lista)
 1. Innehållet i **2026/1788** (läs art. 1 på EUR-Lex — sannolikt new-exporting-producer)
 2. **7326-undernumren** i bilaga I (läs bilagan direkt)
