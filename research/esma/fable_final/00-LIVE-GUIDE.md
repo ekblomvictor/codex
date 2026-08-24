@@ -18,10 +18,12 @@ Delägare (1 av 4) · styrelseledamot · Key Account Manager · **publikt CBAM-a
 5. **"Era kinesiska fästelement — ligger de på producentspecifik antidumpningssats eller på residualen på 86,5?"**
 
 ## SIFFROR JAG FÅR ANVÄNDA
-CBAM-faktor: **2,5 % 2026 → 48,5 % 2030** · cert-pris **~€75/tCO₂e** · tull 7318 **~3,7 %** · AD Kina **22,1–48,8 / 39,6 / 86,5 %** (utanför scope: **rostfritt**, rälsbefästning, coach screws) · deklarantfrist **31/3 2026 passerad**, handläggning 120–180 dgr · första deklaration **30/9 2027** · certifikatköp från **feb 2027** · ESMA: **354 MSEK, 38 anst, rörelseresultat ~40 MSEK — stigande**
+CBAM-faktor: **2,5 % 2026 → 48,5 % 2030** · cert-pris **~€75/tCO₂e** · tull 7318 **~3,7 %** · AD Kina **22,1 / 46,1 / 48,8 · 39,6 · 86,5 %** · AD-utgång **18/2 2027** (notis publicerad, ingen översyn ännu) · **NY AD okt 2025: skruv utan huvud 54,7–72,3 %** (utanför AD-scope: **rostfritt**, **fristående muttrar**, rälsbefästning, coach screws) · deklarantfrist **31/3 2026 passerad**, handläggning 120–180 dgr · första deklaration **30/9 2027** · certifikatköp från **feb 2027** · ESMA: **354 MSEK, 38 anst, rörelseresultat ~40 MSEK — stigande**
 
-## EXTRA KROK *(om samtalet behöver ny energi)*
-> "En sak till bara — räknade ni era 2026-volymer på Kommissionens standardvärden från i höstas? De rättades den 3 augusti, retroaktivt från 1 januari. Fel i både siffror och varukoder. Den som inte räknat om sitter på fel underlag." *(IR 2026/1740 — verifierat)*
+## EXTRA KROK 1 — brickorna *(pengar tillbaka, konkret)*
+> "Har ni importerat brickor från Kina sedan 2022? En rättelse i juli ändrade TARIC-koderna retroaktivt — antidumpningstull som betalats på de gamla koderna ska **återbetalas**, ända tillbaka till februari 2022." *(IR 2026/1788 — verifierat)*
+## EXTRA KROK 2 — omräkningen
+> "Räknade ni 2026-volymerna på standardvärdena från i höstas? De rättades den 3 augusti, retroaktivt från 1 januari — fel i både siffror och varukoder." *(IR 2026/1740)*
 
 ## OM HAN SÄGER…
 **"Vi har redan tullager"** → "Då är den stora posten tagen — grattis, det har de flesta inte. Då är frågan om CBAM-populationen är avstämd mot förfarandet, för det som ligger på tullager ska inte in i deklarationen alls."

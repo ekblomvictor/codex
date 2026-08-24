@@ -13,7 +13,9 @@
 |---|---|---|
 | "7325 är utanför CBAM, 7326 innanför" | **Nu verifierat (konf. 85–90):** 7326 hela rubriken inne; 7325 ute i dag — **men föreslås in 2028** | Får sägas — med båda leden: *"gjutet ligger utanför i dag, men Kommissionen föreslår att det tas in 2028, så fönstret är tidsbegränsat"* |
 | AD-satserna efter ändringen juli 2026 (förordning 2026/1788) | Innehållet **okontrollerat** | Säg 2022/191-satserna med *"om inget ändrats i somras"* |
-| "Svarvad skruv med skaft ≤6 mm är undantagen från AD" | **FEL FÖR 2022/191** — det undantaget fanns i gamla förordningen 723/2011. 2022/191-scope: ej rostfritt, ej rälsbefästning, ej coach screws (träskruv med sexkantshuvud) | Säg bara de tre bekräftade undantagen |
+| "Svarvad skruv ≤6 mm är undantagen" | **Motstridiga läsningar** mellan verifieringsrundorna (sannolikt finns undantaget i art. 1.1 — konf. 92 — men oläst i original) | Nämn inte förrän art. 1.1 lästs (checklistan p. 1) |
+| "AD-satserna: Jinding 46,0 %" | Korrigerat: **46,1 %** | Använd 22,1 / 46,1 / 48,8 / 39,6 / 86,5 |
+| "Tullarna på fästelement försvann ju i våras" (om John säger det) | **Falskt kinesiskt narrativ** — 2026/701 var TARIC-housekeeping, åtgärderna gäller till 18/2 2027+ | Rätta varsamt med källa |
 | "Standardvärdet för kinesiskt stål är 3,167" | Det är **råstål/slab** — gäller inte färdiga fästelement | Säg "schablonen för färdigvaran" utan siffra |
 | "Actuals kan spara er 4–40×" | **Fel för fästelement** — realistiskt ~1,3×; ~10 % av Kinas stål är EAF | Säg tvärtom: *"actuals lönar sig knappt i år — det är därför prioritering är hela jobbet"* |
 | "Ni kan spara upp emot 16 miljoner på återexporten" | Staplat värsta fall på antagna volymer | Säg **~0,5–0,8 MSEK/år försiktigt räknat** + *"mer om AD-belagt"* |

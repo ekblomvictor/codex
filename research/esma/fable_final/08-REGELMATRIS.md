@@ -7,7 +7,9 @@
 |---|---|---|---|---|---|---|
 | Fästelement stål | **7318** | ✅ JA | ✅ | ~3,7 % | ⚠️ 22,1–86,5 % | Största posten |
 | — rostfria | 7318 (rostfria u-nr) | ✅ JA | ✅ | ~3,7 % | ❌ **utanför AD-scope** | Kontrollera att AD ej debiterats |
-| — coach screws / rälsbefästning | 7318 | ✅ JA | ✅ | ~3,7 % | ❌ utanför AD-scope | |
+| — **skruv utan huvud** (stoppskruv/gängstång) | 7318 15 xx | ✅ JA | ✅ | ~3,7 % | ⚠️ **NY AD 54,7–72,3 %** (IR 2025/2153, okt 2025) | Ligger den i deras kalkyl? |
+| — **brickor** | ex 7318 22 00 | ✅ JA | ✅ | ~3,7 % | ⚠️ AD; **koder rättade retroaktivt → återbetalning** (IR 2026/1788) | Konkret ansökan |
+| — coach screws / räls / **fristående muttrar** | 7318 | ✅ JA | ✅ | ~3,7 % | ❌ utanför AD-scope | Scope-texten: 'screws and bolts with heads, washers' — muttrar ingår ej |
 | Fästelement aluminium | 7616 10 00 | ✅ JA | ✅⚠️ | ~6,0 % | – | Glöms ofta i populationen |
 | Fästelement mässing/koppar | 7415 | ❌ NEJ | ✅ | ~3 % | – | Kap. 74 utanför CBAM — städa ut |
 | Gjutgods | **7325** | ❌ NEJ i dag | ✅90 | ~1,7–2,7 % | 2018/140 endast snäv scope | ⚠️ **Föreslås IN 2028** (COM(2025) 989) — arbitraget är tidsbegränsat |
@@ -30,14 +32,14 @@
 | Japan | ✅ EU–Japan EPA | Ursprungsförsäkran (exportörens) | 💰 Ej åberopad preferens = daglig överbetalning; **retroaktivt återkrav ~3 år** |
 | Taiwan | ❌ | – | Full MFN |
 | Norge/Island/Liechtenstein | ✅ EES | | CBAM-undantagna |
-**Asymmetri:** faller en leverantörsdeklaration vid kontroll betalar **importören** retroaktivt + ränta. **Melt-and-pour:** ursprung för stål = var det smältes/göts, oavsett senare bearbetning.
+**Asymmetri:** faller en leverantörsdeklaration vid kontroll betalar **importören** retroaktivt + ränta. **Melt-and-pour:** ursprung för stål = var det smältes/göts, oavsett senare bearbetning. Beviskrav under 2026/1384 **fasas in — skarpt från ~1 jan 2027** (konf. 82). Art. 3g-partnerländer (Norge, Schweiz) undantagna från bevisplikt.
 
 ## Regelverk utanför CBAM — prioriterade
 | Regelverk | Status | Träff på ESMA |
 |---|---|---|
 | **Sanktioner art. 3g (833/2014) + bilaga XVII** | ✅ **VERIFIERAT: gäller NU** | Bilaga XVII omfattar 7318; Kommissionens FAQ: kinesiska fästelement av ryskt valstråd = **Exempel 1 på förbjuden import**. ESMA måste kunna visa **MTC-bevis i dag**. Samma intyg ger CBAM-stålrutt. |
 | **Ny stålförordning 2026/1384** | ✅ i kraft 1/7 2026 | 50 % utomkvot, melt-and-pour, 26 kategorier. Fästelement utanför — men scope-review **31/12 2026** och nedströms (uttryckligen inkl. fästelement) **30/6 2027** |
-| **AD-utgång 2022/191** | ⚠️ ~17–18 feb 2027 | 5-årsutgång om ingen översyn — påverkar sourcingbeslut nu |
+| **AD-utgång 2022/191** | ⚠️ **18 feb 2027** — notis publicerad, ingen översyn inledd | Påverkar sourcingbeslut nu; översynsfråga avgörs i höst |
 | **CBAM nedströms (COM(2025) 989)** | Rådsposition 12/6 2026 | ~180 produkter från **2028** |
 | REACH art. 33 + SCIP | Löpande | **Bly i automatstål/mässing** (CW614N ~3 % Pb; 11SMnPb30) >0,1 % — svarvade detaljer; Cr(VI)-passivering; ELV strängare för fordonskunder ⚠️ ej sessionverifierat |
 | PFAS-restriktion | RAC-yttrande mars 2026 | Zinklamell/friktionsbeläggningar; **ESMA har själva publicerat om PFAS** |

@@ -23,4 +23,9 @@
 17. AD-scope-undantagen (rostfritt, räls, coach screws) = möjliga återbetalningar; ≤6 mm-undantaget var GAMLA förordningen — vanlig felkälla hos rådgivare
 18. Fyra ägare + "två i förening" firmateckning ⇒ prissätt inom VD:s löpande förvaltning; 95 kSEK är ett omdömesbeslut, inte ett styrelsebeslut
 
+19. **Brick-återbetalningen:** IR 2026/1788 rättade AD-TARIC-koder retroaktivt till feb 2022 — betald tull på gamla koder återbetalas. Konkret, ansökningsbar, och exakt den sortens bevakning retainern består av
+20. **Skruv utan huvud fick egen AD okt 2025** (54,7–72,3 %, IR 2025/2153) — sortimentsdel som lätt missas i kalkylen
+21. **Falskt "tullarna avskaffades"-narrativ cirkulerar i Kina** (2026/701 var housekeeping) — leverantörspriser som "sjunker" kan vara felaktig tullkalkyl hos motparten
+22. Melt-and-pour-beviskravet under stålförordningen fasas in mot ~1 jan 2027 — beviskedjan ska byggas i höst, inte i januari
+
 **Metainsikt:** sju regelverk (CBAM, 3g, REACH/SCIP, ELV, PPWR, ESPR/DPP, kundernas PCF) kräver samma artikelnivåregister — ingen bygger det åt dem, ingen intern roll finns. **CBAM är dörren; registret är huset; retainern är hyran.**

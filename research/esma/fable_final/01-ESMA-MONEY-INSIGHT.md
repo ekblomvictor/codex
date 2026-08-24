@@ -20,7 +20,7 @@ Det är en Challenger-insikt därför att den (a) kommer från ESMA:s *egna* pub
 | 3 | EXW Stockholm förutsätter att varan är förtullad och i fri omsättning i Spånga | Incoterms/tullogik | **STARK SLUTLEDNING** |
 | 4 | Varor under **tullager eller aktiv förädling** som återexporteras betalar **varken tull, antidumpningstull eller CBAM** | Tullverket (aktiv förädling); EU-kommissionens CBAM-vägledning; finska statsrådet | **VERIFIED — PRIMÄR** |
 | 5 | EU har **ingen drawback** — tull på varor i fri omsättning återfås inte vid senare export | UCC-systematik | **VERIFIED** |
-| 6 | AD-tull på kinesiska stålfästelement: **86,5 % residual / 39,6 % samarbetande / 22,1–48,8 % namngivna** (förordning (EU) 2022/191) | EUR-Lex | **VERIFIED — PRIMÄR** *(ändring 2026/1788 okontrollerad — se DONT-SAY)* |
+| 6 | AD-tull på kinesiska stålfästelement: **86,5 % residual / 39,6 % samarbetande / 22,1–48,8 % namngivna (Yongyi 22,1 · Jinding 46,1 · Junhao 48,8)** (förordning (EU) 2022/191) | EUR-Lex | **VERIFIED — PRIMÄR** *(ändring 2026/1788 okontrollerad — se DONT-SAY)* |
 | 7 | CBAM-faktorn: **2,5 % 2026 → 48,5 % 2030 → 100 % 2034**; certifikatpris ~€75/tCO₂e | Kommissionen | **VERIFIED** |
 
 ## Ekonomisk mekanism
@@ -49,6 +49,9 @@ Det är en Challenger-insikt därför att den (a) kommer från ESMA:s *egna* pub
 2. **Kinas egna fabriker betalar nu koldioxidpris.** Kinas nationella ETS utvidgades i mars 2025 till stål/cement/aluminium (~CNY 67 ≈ €8,5/ton; första efterlevnad avser 2024 års utsläpp). Avdrag under CBAM art. 9 är ännu inte säkrat ("nödvändigt men inte tillräckligt") — men leverantörernas ETS-data finns nu och är värd att begära in samtidigt. [VERIFIED — ICAP/MEE via sekundärkällor]
 
 3. **Standardvärdena rättades för tre veckor sedan — retroaktivt.** IR (EU) 2026/1740, i kraft 2026-08-03, rättar fel i standardvärdestabellerna (2025/2621) **retroaktivt från 1 jan 2026** — inklusive felmappade varukoder. Den som räknade sin 2026-exponering i våras räknade på fel tabell och måste räkna om. Direkt fråga till John, och ett levande bevis på varför löpande bevakning är en tjänst. [VERIFIED]
+
+4. **Brick-återbetalningen (IR 2026/1788).** TARIC-koderna för AD-belagda brickor under ex 7318 22 00 rättades i juli 2026 **retroaktivt till 2022-02-18** — AD-tull betald på de utgångna koderna ska återbetalas. Har ESMA importerat kinesiska brickor sedan 2022 finns sannolikt pengar att hämta, mot en enkel ansökan. [VERIFIED — EUR-Lex via agentspår]
+5. **Ny AD-åtgärd de kan ha missat:** IR (EU) 2025/2153 (okt 2025) lägger **54,7–72,3 %** på **skruv utan huvud** (stoppskruv/gängstång-familjen) från Kina. [VERIFIED]
 
 ## Varför detta slår en ren CBAM-pitch
 CBAM 2026 kostar ESMA i storleksordningen **100 000 kr** (faktor 2,5 %). Att säga det högt — och att peka på en tullpost som sannolikt är 5–8× större *i år* — visar bättre prioritering och ekonomisk analys än varje konkurrent som ringer om "CBAM-compliance". Metodbeviset: exakt denna typ av flödesanalys (klassificering, förfarande, actuals-mot-default, producent-mappning) är vad Bordic redan gör löpande åt sin referenskund, en svensk stålimportör.

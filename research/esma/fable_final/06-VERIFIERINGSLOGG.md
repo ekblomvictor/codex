@@ -32,12 +32,23 @@ Verdikt: ✅ BEKRÄFTAT · ✅⚠️ DELVIS · ❌ MOTBEVISAT · ❓ OLÖST
 ## Handelspolitik
 | Påstående | Verdikt | Korrigering |
 |---|---|---|
-| AD-satser 2022/191: 22,1–48,8 / 39,6 / 86,5 % | ✅ | Producentnamn per bilaga; **ändring 2026/1788 (23/7 2026) fortfarande okontrollerad till innehåll** ❓ |
+| AD-satser 2022/191 | ✅ korr. | **Jiangsu Yongyi 22,1 % · Ningbo Jinding 46,1 % (ej 46,0) · Wenzhou Junhao 48,8 %** · samarbetande 39,6 % · residual 86,5 % |
+| Innehållet i 2026/1788 | ✅ **LÖST** | **Retroaktiv rättelse av brick-TARIC-koder under ex 7318 22 00** (nya koder …39/…98), gäller från 2022-02-18 — **AD-tull betald på koderna …31/…95 ska ÅTERBETALAS**. 2026/1785 = ny exporterande producent på 39,6 % |
+| AD-utgång | ✅ korr. | **18 feb 2027** (ej 17); notice of impending expiry publicerad (MLex); ingen översyn inledd ännu |
+| Gjutjärnsartiklar AD | ✅ korr. | Citera **förordning (EU) 2024/770** (scope bredare än brunnslock); rörkopplingar förlängda via 2026/709 |
+| Rostfria fästelement AD | ✅ korr. | Förlängdes 2012, **upphörde ~jan 2017** (ej 2012) — slutsatsen står: inget i kraft i dag |
 | Undantag: rostfritt | ✅ | "other than of stainless steel" i art. 1 |
 | Undantag: rälsbefästning | ✅ | Bekräftat i scope-texten |
-| **Undantag: svarvad skruv skaft ≤6 mm** | ❌ **MOTBEVISAT** | Fanns i **gamla** förordningen 723/2011 — **inte återfunnet i 2022/191**. Struket ur allt mötesmaterial. Bekräftat undantag i stället: **coach screws** |
+| **Undantag: svarvad skruv skaft ≤6 mm** | ⚠️ **MOTSTRIDIGT** | Runda 1-sökning: "ej återfunnet i 2022/191". Runda 2-agent: **finns i art. 1.1 (konf. 92)**. Sannolikt FINNS undantaget (konsistent med 723/2011-linjen), men **läs art. 1.1 direkt före användning**. Tills dess: nämn inte |
 | AD-utgång ~17–18 feb 2027; notice of impending expiry publicerad? | ❓ | Ej återfunnen — kolla OJ C-serien |
-| Stålförordning 2026/1384: 1/7 2026, 18,3 Mt, 50 %, melt-and-pour, 26 kategorier; fästelement utanför; scope-reviews 31/12 2026 + 30/6 2027 | ✅ | Crowell, Eurometal, EUR-Lex |
+| Stålförordning 2026/1384: 1/7 2026, 18 345 922 t, 50 %, 26 kategorier; fästelement utanför; reviews 31/12 2026 + 30/6 2027 | ✅ | + landkvoter: **IR 2026/1457** (29/6). **Melt-and-pour-bevis fasas in — krav från ~1 jan 2027** (konf. 82) |
+
+## Nya fynd i runda 2 (handelspolitik)
+| Fynd | Konf. | Betydelse |
+|---|---|---|
+| **IR (EU) 2025/2153 (22 okt 2025): definitiv AD 54,7–72,3 % på SKRUV UTAN HUVUD från Kina** | 92 | Ny åtgärd Opus-rundan missade — stoppskruv/gängstång-familjen; direkt relevant för ESMA:s sortiment |
+| **Falskt kinesiskt narrativ:** 2026/701 "avskaffade" INTE fästelements-AD (endast TARIC-housekeeping) | 88 | ESMA:s leverantörer kan tro/hävda att tullarna är borta — varna John |
+| Art. 3g: partnerländer (bilaga XXXVI: Norge, Schweiz) undantagna från bevisplikt | 70 | Schweiz-flödet slipper MTC-krav |
 
 ## ESMA-fakta (oförändrat bekräftade)
 354,3/343,7 MSEK 2024 · rörelseresultat 40,1 (stigande serie) · soliditet 52,1 % · 38 anst · 4 verkliga huvudmän inkl. **John Nyman** · John = "Key Account Manager, Partner" + **publikt CBAM-ansvarig (okt 2024, två rapporter)** · E&K Shenzhen · ESMA Hong Kong Ltd · EXW Stockholm-citatet · 32/39 länder · "flera tusen ton, ~50 % export" · ISO 14001 sedan 2006/Intertek · EcoVadis Silver · UNGC 158179 — samtliga ✅ mot register-/primärkällor i första rundan. ❌ RocketReach-uppgifterna (7,7 MUSD; "Area Manager China") förblir förkastade.
