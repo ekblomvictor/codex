@@ -36,13 +36,14 @@ Att säga den **lilla** CBAM-siffran högt är vårt starkaste trovärdighetsdra
 
 | Spår | 2026 | Bevistid |
 |---|---|---|
-| **Återexport under tullager/aktiv förädling** | **0,7–16 MSEK/år** | 2–4 v |
+| **Återexport under tullager/aktiv förädling** | **0,7 MSEK/år** enbart ordinarie tull · upp till ~16 MSEK **endast om hela flödet vore AD-belagt till residualsatsen** | 2–4 v |
 | Antidumpning: rätt sats + tre undantag | mycket högt | 3–5 v |
 | Klassificering + BKB (retroaktivt 3 år) | 0–1,5 MSEK/år + retro | 3–6 v |
 | Massaavstämning & scope-städning | korrigerar allt | **1–2 v** |
 | CBAM-certifikaten i sig | **≈0,1 MSEK** | — |
 
 **Tullager suspenderar tull, antidumpningstull OCH CBAM. Framåtriktat bara — EU har ingen drawback.**
+⚠️ **Citera 0,7 MSEK, inte 16.** Toppen av spannet är ett staplat värsta fall (allt AD-belagt till 86,5 %) och bygger på antaganden om tonnage och värde som vi inte har. **Säg mekanismen, inte maxbeloppet.**
 **AD Kina fästelement: 22,1 % / 39,6 % / 86,5 %. Undantagna: rostfritt · svarvad skruv skaft ≤6 mm.**
 
 ## ⏰ DATUM SOM SKAPAR BRÅDSKA

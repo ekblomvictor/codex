@@ -30,8 +30,20 @@
 
 ## 2. 💰 Den mest lönsamma gränsdragningen i hela matrisen: 7325 vs 7326
 
-> **CN 7325 ("andra gjutna varor av järn eller stål") ligger UTANFÖR CBAM.**
-> **CN 7326 ("andra varor av järn eller stål") ligger INNANFÖR CBAM.**
+> **CN 7325 ("andra gjutna varor av järn eller stål") ligger UTANFÖR CBAM bilaga I.**
+> **CN 7326 ("andra varor av järn eller stål") ligger INNANFÖR.**
+>
+> **STRONG INFERENCE, konfidens 74 — inte verifierat mot bilagetexten.**
+
+> ⚠️ **Kalibrering — läs innan detta sägs till John.**
+> Mekanismen är sund och slutsatsen sannolik, men **två saker är inte fastställda**:
+> 1. att 7325 verkligen saknas i bilaga I (konfidens 74), och
+> 2. **om 7326 är täckt som hel rubrik eller bara på vissa 8-siffriga undernummer — detta är uttryckligen OLÖST (konfidens 50).**
+>
+> **Säg det därför som en fråga, inte som ett påstående:**
+> *"Om jag minns bilaga I rätt ligger gjutna varor under 7325 utanför medan 7326 ligger innanför — har ni tittat på den gränsen?"*
+>
+> Att ha fel om detta inför den som lämnat två CBAM-rapporter vore dyrt. **Verifiera mot bilaga I till förordning (EU) 2023/956 före fredag** (fil 17, punkt 2).
 
 **Samma fysiska konsol, samma kund, samma ritning — bär CBAM-skyldighet eller ingen alls, beroende på om den klassas som *gjuten* eller som *smidd/stansad/bearbetad*.**
 

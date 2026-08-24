@@ -29,7 +29,8 @@ Fristen 31 mars 2026 har passerat; handläggning 120–180 dagar.
 ## Nivå 2 — Störst pengar, kräver data
 
 ### 4. Återexport under tullager / aktiv förädling ⭐ **högsta ekonomiska värde**
-**Värde: 0,7–16 MSEK/år** · **Bevistid: 2–4 v** · **Confidence 62**
+**Värde: ~0,7 MSEK/år på enbart ordinarie tull; högre om AD-belagt** · **Bevistid: 2–4 v** · **Confidence 62**
+⚠️ Övre delen av spannet förutsätter att flödet är antidumpningsbelagt — **citera inte maxbeloppet mot kund.**
 esma.se: *"flera tusen ton … varav ca 50 % exporteras"* + *"vi levererar EXW Stockholm så kunden slipper tänka på tull"*.
 De två meningarna tillsammans **implicerar fri omsättning vid ankomst** ⇒ tull, ev. AD-tull och CBAM betalas även på det som lämnar EU igen.
 **Tullager (UCC art. 240)** suspenderar tull, **antidumpningstull** och moms utan tidsgräns, tillåter *usual forms of handling* (ompackning, märkning) enligt bilaga 71-03 ⇒ **noll tull vid återexport**.
