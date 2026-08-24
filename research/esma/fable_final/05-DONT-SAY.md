@@ -11,7 +11,7 @@
 ## OVERIFIERAT — får bara sägas som fråga eller inte alls
 | Påstående | Status | Om det måste beröras |
 |---|---|---|
-| "7325 är utanför CBAM, 7326 innanför" | Stark slutledning, **ej verifierad mot bilaga I**; 7326 hel/delvis OLÖST | *"Om jag minns bilaga I rätt … har ni tittat på den gränsen?"* |
+| "7325 är utanför CBAM, 7326 innanför" | **Nu verifierat (konf. 85–90):** 7326 hela rubriken inne; 7325 ute i dag — **men föreslås in 2028** | Får sägas — med båda leden: *"gjutet ligger utanför i dag, men Kommissionen föreslår att det tas in 2028, så fönstret är tidsbegränsat"* |
 | AD-satserna efter ändringen juli 2026 (förordning 2026/1788) | Innehållet **okontrollerat** | Säg 2022/191-satserna med *"om inget ändrats i somras"* |
 | "Svarvad skruv med skaft ≤6 mm är undantagen från AD" | **FEL FÖR 2022/191** — det undantaget fanns i gamla förordningen 723/2011. 2022/191-scope: ej rostfritt, ej rälsbefästning, ej coach screws (träskruv med sexkantshuvud) | Säg bara de tre bekräftade undantagen |
 | "Standardvärdet för kinesiskt stål är 3,167" | Det är **råstål/slab** — gäller inte färdiga fästelement | Säg "schablonen för färdigvaran" utan siffra |
