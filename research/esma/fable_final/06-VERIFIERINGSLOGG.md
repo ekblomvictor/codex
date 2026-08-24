@@ -1,5 +1,6 @@
 # Verifieringslogg — Fable-rundan
 **2026-08-24 · Varje bärande påstående ur Opus-utkastet: prövat, med utfall.**
+**Granskningshistorik:** runda 1 (Opus, 13 spår + verifiering) → runda 2 (Fable, 6 verifieringsspår + egna korsverifieringar) → **runda 3 (adversarial, 4 linser: fakta-konsistens · John-rollspel · affärslogik · deal-killers — ~35 fynd, samtliga åtgärdade eller medvetet avvägda)**.
 Verdikt: ✅ BEKRÄFTAT · ✅⚠️ DELVIS · ❌ MOTBEVISAT · ❓ OLÖST
 
 ## CBAM-kärnan

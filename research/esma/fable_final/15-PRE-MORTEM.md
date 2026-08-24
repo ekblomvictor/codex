@@ -14,7 +14,7 @@
 | 9 | En faktasiffra fel inför experten | Medel | Endast siffror ur liveguiden; allt ⚠️ sägs som fråga; Victors 5-punktslista i 19-CHECKLISTA körd |
 | 10 | Magnus tog över och vi pratade CBAM med honom | Medel | Växla språk: datamodell, källhänvisning per fält, revisionsspår — sälj spårbarhet |
 | 11 | Han skördade gratis råd utan nästa steg | Medel | Ge EN insikt (1740-omräkningen) gratis; resten kräver en-artikeln |
-| 12 | Vidarebefordrar våra påståenden till sin speditör som sågar dem | Låg-medel | Därför: bara verifierade siffror + "om inget ändrats i somras"-förbehåll + aldrig kritisera speditören |
+| 12 | Vidarebefordrar våra påståenden till sin speditör som sågar dem | Låg-medel | Därför: bara verifierade siffror, en-sidan byggd för att tåla vidarebefordran (trescenariotabell, källhänvisning per rad) + aldrig kritisera speditören |
 
 ## Ärliga scenariot
 ISO 14001 sedan 2006, Intertek-reviderad, EcoVadis Silver, MMOG/LE, egen Kina-närvaro, +48 % tillväxt 2020–24 genom tullkaoset, stigande rörelseresultat. **Empirin säger att deras process fungerar.** Om det stämmer: säg det — *"ni har det mer under kontroll än de flesta; jag hittar inte på ett problem åt er"* — och lämna dörren öppen för det som HAR datum (AD-utgång feb 2027, scope-reviews, nedströms 2028). **Att förlora rätt är värt mer än att vinna fel.**
