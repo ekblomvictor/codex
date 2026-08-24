@@ -13,7 +13,7 @@ Steg 2 (konvertering):              löpande trade-operator, 25–40 000 SEK/må
 1. **Artikelmatris** för Asienflödet: artikel → KN (8-siffrig) → CBAM ja/nej → tullsats → AD-status → ursprung → ton/år
 2. **Scope-differens**: artiklar som felaktigt ligger i/utanför CBAM-populationen, med motivering per rad
 3. **Massaavstämning**: styckvikt × antal mot deklarerad nettovikt, avvikelse i kronor *(den enda posten vi kan garantera utfall på — kräver ingen leverantör, ingen myndighet)*
-4. **Förfarandeanalys**: beräknad årlig effekt av tullager/aktiv förädling på återexportflödet + rekommendation och ansökningsväg
+4. **Förfarandeanalys**: beräknad årlig effekt av tullager/aktiv förädling på återexportflödet + rekommendation och väg — **inkl. snabbspåret: hyrd plats på allmänt tullager (PostNord TPL, DSV typ I) kräver inget eget tillstånd** medan egen ansökan (två tillstånd: förfarande + samlad garanti, ~120 dgr) förbereds
 5. **AD-kontroll**: satser mot faktisk producent, test av scope-undantagen (rostfritt, rälsbefästning, coach screws)
 6. **Leverantörsranking**: vilka fabriker är värda actuals-jakt inför 2027-deklarationen och vilka inte (value-of-information, per fabrik)
 7. **Kostnadskurva 2026→2034** med försiktiga intervall + **åtgärdslista** rankad i kr per arbetstimme
@@ -21,6 +21,8 @@ Steg 2 (konvertering):              löpande trade-operator, 25–40 000 SEK/må
 
 ## Input från ESMA (minsta möjliga)
 Artikelregister (nr, KN, ursprungsland, ton, styckvikt, värde) · 12 mån tulldeklarationer (kan begäras ut från Tullverket — vi hjälper till) · exportdestination per artikel eller aggregat · de två CBAM-rapporterna · gärna EN 10204 3.1-intyg för topp-20. **Inga leverantörsnamn — A/B/C räcker.**
+
+**Prisfakta som stärker kalkylen:** själva **BKB-beslutet är gratis hos Tullverket** (120 dgr, 3 års EU-giltighet) — vår avgift är hela kostnaden. CBAM-mjukvara listar €2–19k/år (CBAMBOO €9k/€19k; Dubrink €1 990; CBAM Track €79–199/mån) — **ingen aktör publicerar konsultretainer** (cbamguide, jul 2026), så 25–40 kSEK/mån argumenteras från paketvärde, inte jämförelser.
 
 ## Riskreversal och prislogik
 > **"Hittar vi inte minst 95 000 kr i dokumenterad årlig effekt betalar ni ingenting."**

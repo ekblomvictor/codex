@@ -7,7 +7,7 @@
 **Bindu** — **noll trovärdiga träffar.** Nämn inte; be Victor kolla varifrån namnet kom.
 
 ## Fältet
-CBAM/hållbarhet: CarbonChain, Tanso, CO2-IQ, Normative, Position Green, SGS/BV-tjänster. Tull: Descartes, ONESOURCE, AEB, MIC, KGH (Maersk), Tullsam, Big 4 trade & customs (typiskt 1 500–3 500 SEK/h; projekt 250–500 kSEK). Gratis: Kommerskollegium.
+CBAM/hållbarhet (publicerade priser): **CBAMBOO €9k/€19k/år** (≤1 000 t; €31k enterprise) · **Dubrink €1 990/år** · **CBAM Track €79–199/mån** · CarbonChain, Tanso, CO2-IQ, Normative m.fl. utan publika priser. ⚠️ 'CBAMBOSS' existerar inte (felnamn). **Ingen aktör publicerar konsultretainer** (cbamguide jul 2026) — 25–40 kSEK/mån säljs på paketvärde, inte jämförelse. Tull: Descartes, ONESOURCE, AEB, MIC, KGH (Maersk), Tullsam, Big 4 trade & customs (typiskt 1 500–3 500 SEK/h; projekt 250–500 kSEK). Gratis: Kommerskollegium.
 
 ## ESMA:s verkliga alternativ (sannolikast → minst)
 1. **Excel + mejl + John själv** — fungerar tills revision/verifiering; nyckelpersonberoende. *Replik: "Det fungerar tills det ska granskas — eller tills du är upptagen med det du egentligen ska göra."*
@@ -20,4 +20,4 @@ CBAM/hållbarhet: CarbonChain, Tanso, CO2-IQ, Normative, Position Green, SGS/BV-
 ## Bordics rätt att vinna — ärligt
 **Starkare:** artikelnivåarbete på klientdata (AI gör det ekonomiskt) · skärningen tull×CBAM (ingen annan täcker) · oberoende nog att avråda från actuals 2026 (en SaaS vars affär är emissionsdata kan aldrig säga det) · BKB som verktyg · riskreversal · ingen licens/implementation.
 **Svagare:** en referenskund, inga realiserade klassificeringsbesparingar än (**får aldrig överdrivas**), nyckelpersonrisk, ingen försäkringsdjup, ingen verifierarackreditering (ska inte ha).
-**Prispositionering:** 95 kSEK analys → 25–40 kSEK/mån retainer. Referenskundens 15 kSEK/mån är introduktionspris, inte marknadspris — använd inte som ankare mot ESMA (354 MSEK).
+**Peer-röster för mötet:** Bufab publicerar egen CBAM-kundvägledning ('CBAM: Hur påverkas europeiska tillverkare?'); TR Fastenings varnar för höga 7318-defaultvärden; branschorganet **EFDA** släppte 2026 ett CBAM-kostnadspapper (oläst — hämta). **Prispositionering:** 95 kSEK analys → 25–40 kSEK/mån retainer. Referenskundens 15 kSEK/mån är introduktionspris, inte marknadspris — använd inte som ankare mot ESMA (354 MSEK).

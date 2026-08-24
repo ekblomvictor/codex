@@ -53,12 +53,25 @@ Verdikt: ✅ BEKRÄFTAT · ✅⚠️ DELVIS · ❌ MOTBEVISAT · ❓ OLÖST
 ## ESMA-fakta (oförändrat bekräftade)
 354,3/343,7 MSEK 2024 · rörelseresultat 40,1 (stigande serie) · soliditet 52,1 % · 38 anst · 4 verkliga huvudmän inkl. **John Nyman** · John = "Key Account Manager, Partner" + **publikt CBAM-ansvarig (okt 2024, två rapporter)** · E&K Shenzhen · ESMA Hong Kong Ltd · EXW Stockholm-citatet · 32/39 länder · "flera tusen ton, ~50 % export" · ISO 14001 sedan 2006/Intertek · EcoVadis Silver · UNGC 158179 — samtliga ✅ mot register-/primärkällor i första rundan. ❌ RocketReach-uppgifterna (7,7 MUSD; "Area Manager China") förblir förkastade.
 
+## Kommersiellt spår (runda 2) — verifierat
+| Fynd | Konf. | Not |
+|---|---|---|
+| **BKB-beslutet är gratis** hos Tullverket; 120 dgr; 3 års EU-giltighet | 95 | Bordics arvode = hela kostnaden |
+| Tullager: två tillstånd (förfarande + samlad garanti, reducerbar 50/30/0 %), godkänd lagerbokföring, ~120 dgr | 85 | Realistiskt för ESMA |
+| **Allmänt tullager som hyrtjänst: PostNord TPL, DSV (typ I)** | 85 | Snabbspår utan eget tillstånd |
+| **CBAM-registrets operatörsportal i drift sedan 1/1 2025**; deklaranter hämtar via Emissions-fliken | 92 | Fabriken registrerar EN gång |
+| Kommissionens operatörsvägledning **på kinesiska**; **tio nya vägledningsdokument 14/8 2026** | 80/90 | Färsk krok + E&K-verktyg |
+| **Tullverkets e-tjänst "Statistik import"**: bolaget drar själv ut sina deklarationsdata till Excel | 90 | Återupplivar mejl-asken, nu verifierad |
+| Japan EPA: ursprungsförsäkran i efterhand + **3 års återbetalningsfrist** | 88 | Bästa kontanta 30-dagarsspåret |
+| Mjukvarupriser: CBAMBOO €9k/€19k · Dubrink €1 990 · CBAM Track €79–199/mån; **ingen publicerad konsultretainer** | 80 | Retainer säljs på paketvärde |
+| "CBAMBOSS" | ❌ REFUTERAT | Existerar inte; rätt namn CBAMBOO |
+| 50 t-tröskeln undantar ~182 000 importörer | 80 | Färg till teach-delen |
+
 ## Overifierat spår: svenska myndighetsmekaniker (sökkvot uttömd)
 Spåret för Tullverket-mekanik kunde inte köras (delad sessionskvot 200/200 förbrukad). Följande förblir **minnesnivå (WORKING HYPOTHESIS, ej sessionkontrollerat)** och får inte sägas som fakta:
 - Tullager-/aktiv förädlingstillstånd: beslut ~120 dgr (UCC art. 22.3), garantikrav, avgifter
 - Tulltillägg 20 % + lindring vid självrättelse; efterkontrollfönster 3(/5) år
 - EU–Japan EPA: ingen REX; exportörens ursprungsförsäkran med corporate number; retro ~3 år
-- Exakt e-tjänsteväg för att hämta egna importdeklarationer från Tullverket
 → Victors 20-minuters spot-check på tullverket.se täcker samtliga (checklistan p. 6).
 
 ## Kvarstående ❓ inför fredag (Victors lista)

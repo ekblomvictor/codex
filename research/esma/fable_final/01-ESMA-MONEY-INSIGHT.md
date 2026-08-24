@@ -53,5 +53,7 @@ Det är en Challenger-insikt därför att den (a) kommer från ESMA:s *egna* pub
 4. **Brick-återbetalningen (IR 2026/1788).** TARIC-koderna för AD-belagda brickor under ex 7318 22 00 rättades i juli 2026 **retroaktivt till 2022-02-18** — AD-tull betald på de utgångna koderna ska återbetalas. Har ESMA importerat kinesiska brickor sedan 2022 finns sannolikt pengar att hämta, mot en enkel ansökan. [VERIFIED — EUR-Lex via agentspår]
 5. **Ny AD-åtgärd de kan ha missat:** IR (EU) 2025/2153 (okt 2025) lägger **54,7–72,3 %** på **skruv utan huvud** (stoppskruv/gängstång-familjen) från Kina. [VERIFIED]
 
+6. **Tio nya CBAM-vägledningsdokument 14 aug 2026** (definitiva perioden; 4 generella + 6 sektorsspecifika; operatörsvägledning finns **på kinesiska**) + operatörsportalen i drift sedan 1/1 2025 — fabriker registrerar en gång, alla importörer återanvänder. Vägen för E&K är alltså redan byggd. [VERIFIED]
+
 ## Varför detta slår en ren CBAM-pitch
 CBAM 2026 kostar ESMA i storleksordningen **100 000 kr** (faktor 2,5 %). Att säga det högt — och att peka på en tullpost som sannolikt är 5–8× större *i år* — visar bättre prioritering och ekonomisk analys än varje konkurrent som ringer om "CBAM-compliance". Metodbeviset: exakt denna typ av flödesanalys (klassificering, förfarande, actuals-mot-default, producent-mappning) är vad Bordic redan gör löpande åt sin referenskund, en svensk stålimportör.
