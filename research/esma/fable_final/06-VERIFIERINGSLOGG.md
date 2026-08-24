@@ -26,7 +26,7 @@ Verdikt: ✅ BEKRÄFTAT · ✅⚠️ DELVIS · ❌ MOTBEVISAT · ❓ OLÖST
 |---|---|---|
 | **Bilaga XVII (sanktioner 833/2014) omfattar CN 7318**; Kommissionens FAQ använder kinesiska fästelement av ryskt valstråd som Exempel 1; MTC-bevis krävs av importören **i dag** | ✅ **NYTT** | Kommissionens FAQ (PRIMÄR) + lexparency ANX XVII |
 | **IR (EU) 2026/1740**: rättade standardvärden i kraft 2026-08-03, **retroaktivt från 1/1 2026**, inkl. felmappade varukoder — omräkningsplikt | ✅ **NYTT** | EUR-Lex-referens via flera källor |
-| **Kinas ETS utvidgat till stål/cement/aluminium mars 2025**; pris ~CNY 67 (~€8,5) | ✅ **NYTT** | ICAP, Carbon Brief, IEEFA. **Avdraget i praktiken ~0 i dag**: fri tilldelning nettar, lågt pris, art. 9-genomföranderegler bara utkast |
+| **Kinas ETS utvidgat till stål/cement/aluminium mars 2025**; pris CNY 67–86 (2025) | ✅ **NYTT** | ICAP, Carbon Brief, IEEFA. **Avdrag ≈ 0, mekanism verifierad:** första cykelns fria tilldelning = 100 % av verifierad 2024-emission; endast direkta utsläpp täcks; art. 9-regler för tredjeland ännu olösta ❓ |
 | **ETS Phase 5-förslag**: kan återinföra 15 % fri tilldelning för CBAM-sektorer från 2028 och förlänga utfasningen till 2038 | ✅ **NYTT** (förslag, ej lag) | Legislative train/Homaio — **ärlighetsvillkor i 2030-prognoser** |
 
 ## Handelspolitik

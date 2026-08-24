@@ -11,7 +11,7 @@
 7. Defaultpåslagen +10/20/30 % (IR 2025/2621); **tabellerna rättades 3 aug 2026 retroaktivt (IR 2026/1740)** — omräkningsplikt få känner till
 8. Import >50 t utan deklarantstatus ⇒ sanktionsavgift **€300–500/tCO₂e** — importrätten är den verkliga risken, inte certifikatkostnaden
 9. Actuals är irrationella 2026 (verifiering per anläggning; break-even ton/fabrik faller ~40× till 2034) och kan bli **sämre än default och låsa** ⇒ skatta rutt FÖRST
-10. Kinas ETS täcker nu stål (~€8,5/t) men art. 9-avdraget ≈ 0 i praktiken (fri tilldelning, utkastregler) — begär ändå leverantörens ETS-data samtidigt
+10. Kinas ETS täcker nu stål (CNY 67–86/t 2025) men art. 9-avdraget ≈ 0: **första cykelns fria tilldelning = 100 % av verifierad 2024-emission**, och bara direkta utsläpp täcks — begär ändå leverantörens ETS-verifieringsdata; avdraget växer när tilldelningen stramas åt
 
 **ESMA-specifikt**
 11. "EXW Stockholm" + "50 % exporteras" = tull+AD+CBAM betalas sannolikt på gods som lämnar EU; ingen drawback ⇒ månadsvis förlust
