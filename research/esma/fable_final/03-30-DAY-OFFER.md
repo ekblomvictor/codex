@@ -14,7 +14,7 @@ Steg 2 (konvertering):              löpande trade-operator, 25–40 000 SEK/må
 2. **Scope-differens**: artiklar som felaktigt ligger i/utanför CBAM-populationen, med motivering per rad
 3. **Massaavstämning**: styckvikt × antal mot deklarerad nettovikt, avvikelse i kronor *(den enda posten vi kan garantera utfall på — kräver ingen leverantör, ingen myndighet)*
 4. **Förfarandeanalys**: beräknad årlig effekt av tullager/aktiv förädling på återexportflödet + rekommendation och ansökningsväg
-5. **AD-kontroll**: satser mot faktisk producent, test av undantagen (rostfritt, svarvad skruv skaft ≤6 mm)
+5. **AD-kontroll**: satser mot faktisk producent, test av scope-undantagen (rostfritt, rälsbefästning, coach screws)
 6. **Leverantörsranking**: vilka fabriker är värda actuals-jakt inför 2027-deklarationen och vilka inte (value-of-information, per fabrik)
 7. **Kostnadskurva 2026→2034** med försiktiga intervall + **åtgärdslista** rankad i kr per arbetstimme
 8. **Två sidor för styrelsen** — John ska kunna visa den utan att förklara något

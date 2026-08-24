@@ -18,7 +18,10 @@ Delägare (1 av 4) · styrelseledamot · Key Account Manager · **publikt CBAM-a
 5. **"Era kinesiska fästelement — ligger de på producentspecifik antidumpningssats eller på residualen på 86,5?"**
 
 ## SIFFROR JAG FÅR ANVÄNDA
-CBAM-faktor: **2,5 % 2026 → 48,5 % 2030** · cert-pris **~€75/tCO₂e** · tull 7318 **~3,7 %** · AD Kina **22,1–48,8 / 39,6 / 86,5 %** (undantag: rostfritt, svarvad skruv skaft ≤6 mm) · deklarantfrist **31/3 2026 passerad**, handläggning 120–180 dgr · första deklaration **30/9 2027** · certifikatköp från **feb 2027** · ESMA: **354 MSEK, 38 anst, rörelseresultat ~40 MSEK — stigande**
+CBAM-faktor: **2,5 % 2026 → 48,5 % 2030** · cert-pris **~€75/tCO₂e** · tull 7318 **~3,7 %** · AD Kina **22,1–48,8 / 39,6 / 86,5 %** (utanför scope: **rostfritt**, rälsbefästning, coach screws) · deklarantfrist **31/3 2026 passerad**, handläggning 120–180 dgr · första deklaration **30/9 2027** · certifikatköp från **feb 2027** · ESMA: **354 MSEK, 38 anst, rörelseresultat ~40 MSEK — stigande**
+
+## EXTRA KROK *(om samtalet behöver ny energi)*
+> "En sak till bara — räknade ni era 2026-volymer på Kommissionens standardvärden från i höstas? De rättades den 3 augusti, retroaktivt från 1 januari. Fel i både siffror och varukoder. Den som inte räknat om sitter på fel underlag." *(IR 2026/1740 — verifierat)*
 
 ## OM HAN SÄGER…
 **"Vi har redan tullager"** → "Då är den stora posten tagen — grattis, det har de flesta inte. Då är frågan om CBAM-populationen är avstämd mot förfarandet, för det som ligger på tullager ska inte in i deklarationen alls."

@@ -43,5 +43,12 @@ Det är en Challenger-insikt därför att den (a) kommer från ESMA:s *egna* pub
 | ESMA saknar tullager/aktiv förädling i dag | Fråga 1 (förfarandet) | Byt till population-vs-förfarande-avstämning — fortfarande vårt jobb |
 | Volym/värde-antagandena är rimliga | En-artikelanalysen | Justera intervallet med deras data |
 
+## Två verifierade stödpunkter (nya 2026-08-24)
+
+1. **Sanktionsbeviskravet gäller redan.** Bilaga XVII till förordning 833/2014 omfattar CN 7318, och Kommissionens FAQ tar *kinesiska fästelement gjorda av ryskt valstråd* som sitt första exempel på förbjuden import. ESMA måste alltså **redan i dag** kunna visa verksintyg (EN 10204 MTC) på att kinesiska leverantörers stål inte är ryskt. **Samma intyg avslöjar stålrutt (EAF/masugn) för CBAM.** En datainsamling — två skyldigheter lösta. [VERIFIED — Kommissionens FAQ, PRIMÄR]
+2. **Kinas egna fabriker betalar nu koldioxidpris.** Kinas nationella ETS utvidgades i mars 2025 till stål/cement/aluminium (~CNY 67 ≈ €8,5/ton; första efterlevnad avser 2024 års utsläpp). Avdrag under CBAM art. 9 är ännu inte säkrat ("nödvändigt men inte tillräckligt") — men leverantörernas ETS-data finns nu och är värd att begära in samtidigt. [VERIFIED — ICAP/MEE via sekundärkällor]
+
+3. **Standardvärdena rättades för tre veckor sedan — retroaktivt.** IR (EU) 2026/1740, i kraft 2026-08-03, rättar fel i standardvärdestabellerna (2025/2621) **retroaktivt från 1 jan 2026** — inklusive felmappade varukoder. Den som räknade sin 2026-exponering i våras räknade på fel tabell och måste räkna om. Direkt fråga till John, och ett levande bevis på varför löpande bevakning är en tjänst. [VERIFIED]
+
 ## Varför detta slår en ren CBAM-pitch
 CBAM 2026 kostar ESMA i storleksordningen **100 000 kr** (faktor 2,5 %). Att säga det högt — och att peka på en tullpost som sannolikt är 5–8× större *i år* — visar bättre prioritering och ekonomisk analys än varje konkurrent som ringer om "CBAM-compliance". Metodbeviset: exakt denna typ av flödesanalys (klassificering, förfarande, actuals-mot-default, producent-mappning) är vad Bordic redan gör löpande åt sin referenskund, en svensk stålimportör.

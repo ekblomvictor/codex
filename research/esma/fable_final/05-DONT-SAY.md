@@ -13,11 +13,12 @@
 |---|---|---|
 | "7325 är utanför CBAM, 7326 innanför" | Stark slutledning, **ej verifierad mot bilaga I**; 7326 hel/delvis OLÖST | *"Om jag minns bilaga I rätt … har ni tittat på den gränsen?"* |
 | AD-satserna efter ändringen juli 2026 (förordning 2026/1788) | Innehållet **okontrollerat** | Säg 2022/191-satserna med *"om inget ändrats i somras"* |
+| "Svarvad skruv med skaft ≤6 mm är undantagen från AD" | **FEL FÖR 2022/191** — det undantaget fanns i gamla förordningen 723/2011. 2022/191-scope: ej rostfritt, ej rälsbefästning, ej coach screws (träskruv med sexkantshuvud) | Säg bara de tre bekräftade undantagen |
 | "Standardvärdet för kinesiskt stål är 3,167" | Det är **råstål/slab** — gäller inte färdiga fästelement | Säg "schablonen för färdigvaran" utan siffra |
 | "Actuals kan spara er 4–40×" | **Fel för fästelement** — realistiskt ~1,3×; ~10 % av Kinas stål är EAF | Säg tvärtom: *"actuals lönar sig knappt i år — det är därför prioritering är hela jobbet"* |
 | "Ni kan spara upp emot 16 miljoner på återexporten" | Staplat värsta fall på antagna volymer | Säg **~0,5–0,8 MSEK/år försiktigt räknat** + *"mer om AD-belagt"* |
 | "Bindu gör X" | **Noll trovärdiga träffar** — bolaget okänt | Nämn inte |
-| Melt-and-pour-beviskrav "gäller er redan i dag" (sanktioner art. 3g) | Om bilaga XVII omfattar 7318 är **okontrollerat** | *"Beroende på var era nummer ligger kan det redan gälla — värt att kolla"* |
+| ~~Melt-and-pour art. 3g overifierat~~ | **UPPGRADERAD TILL VERIFIERAD 2026-08-24:** Bilaga XVII omfattar CN 7318; Kommissionens FAQ använder kinesiska fästelement av ryskt valstråd som **Exempel 1** på förbjuden import. Beviskravet (verksintyg/MTC) gäller ESMA **i dag**. | Får sägas: *"Ni har redan i dag en bevisbörda på ryskt stål i era kinesiska fästelement — samma verksintyg löser den och CBAM-ruttfrågan samtidigt."* |
 
 ## SKADLIGT — sant men får inte sägas
 | Ämne | Varför |
