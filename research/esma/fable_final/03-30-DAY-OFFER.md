@@ -32,3 +32,20 @@ Artikelregister (nr, KN, ursprungsland, ton, styckvikt, värde) · 12 mån tulld
 
 ## Konvertering till löpande (steg 2)
 Analysen slutar i en åtgärdslista (BKB-ansökningar, tullagertillstånd, självrättelser, leverantörsdata inför 30/9 2027) som ESMA saknar intern roll att utföra — 38 anställda, ingen tullfunktion. Retainern 25–40 kSEK/mån = nya artiklar klassas vid införande, leverantörsdatainsamling via E&K-spåret, bevakning (AD-utgång feb 2027, stål-scope-review dec 2026, CBAM nedströms 2028), kvartalsrapport till styrelsen. **Det är inte merförsäljning — det är enda praktiska vägen att verkställa fynden.**
+
+## Metodkarta: referensuppdraget → ESMA (vad som återanvänds, vad som är större här)
+*Referens: löpande trade-operator-uppdrag hos svensk stålimportör. Metod och arbetssätt är beviset — inga besparingar utges för att vara realiserade.*
+
+| Arbetsström hos referenskunden | ESMA-motsvarigheten | Samma / större? |
+|---|---|---|
+| CBAM-exponeringskartläggning | Samma — men **större population** (tusentals artiklar vs få stålnummer) → AI-hävstången värd mer | **Större** |
+| Actuals vs default-ekonomi | Samma formelverk; hos ESMA dessutom **avstå-2026-beslutet** + landval i defaulttabellen | Samma |
+| Artikel → verklig producent/installation | Hos ESMA **enklare**: E&K (JV sedan 2006) står redan på fabriksgolvet — vi aktiverar en befintlig kanal i stället för att bygga en | **Enklare/större värde** |
+| Leverantörsoutreach + monitoring-plan/MRV | Samma playbook; kinesiska mallar; verifieringsberedskap inför 30/9 2027 | Samma |
+| Klassificering/BKB (hos referensen: stål-inner-cores) | Hos ESMA: 7318-familjen, 7325/7326-gränsen, 84/85/87-gränsen, **BKB-paket** | **Större** (fler koder, mer värde per rätt) |
+| Stålsafeguards/kvoter | Hos ESMA i dag mest bevakning (fästelement utanför 2026/1384) — men reviews dec 2026/jun 2027 kan dra in dem | Mindre nu, option större |
+| Melt-and-pour + ursprung | **Större hos ESMA**: art. 3g-bevisbördan gäller redan (bilaga XVII, Exempel 1 = deras flöde) + beviskrav 2026/1384 från ~jan 2027 | **Större** |
+| Landed cost / sourcing / prissättning | Samma logik; ESMA:s AD-lager (fyra satser, nya åtgärder, återbetalningar) gör den mer levande | **Större** |
+| **Nytt hos ESMA, fanns inte hos referensen** | Återexport/förfarandeanalysen (50 % re-export) · brick-återbetalningen · kundvänd PCF mot >200 kunder | **Endast ESMA** |
+
+**Slutsats:** ESMA är inte "samma uppdrag igen" — det är samma metod på ett bolag med **fler artiklar, färdig Kina-infrastruktur och tre extra värdeströmmar**. Det är därför 95 kSEK-garantin är trygg att ge.
