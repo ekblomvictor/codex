@@ -20,7 +20,7 @@
 14. E&K Shenzhen är en orättvis CBAM-fördel: QA på fabriksgolvet = artikel→fabrik-mappningen som alla andra måste gräva fram
 15. Svarvade detaljer kan ha **högre** EF/ton än fästelement (prekursor allokeras på insatsmassa) — deras dyraste CBAM-artiklar är nog inte skruvarna
 16. Rörelseresultatet steg tre år i rad — säljargument är kalkyl, inte kris; 1 %-enhet landed cost ≈ 6–7 % av rörelseresultatet
-17. AD-scope-undantagen (rostfritt, fristående muttrar, räls, coach screws) = möjliga återbetalningar; ≤6 mm-frågan har motstridiga läsningar — avgörs mot art. 1.1 före mötet, nämns inte innan
+17. AD-scope-undantagen (rostfritt, fristående muttrar, räls, coach screws) = möjliga återbetalningar. **≤6 mm-undantaget finns INTE i 2022/191** (bara i gamla 91/2009 + UK) — en vanlig rådgivarmiss vi nu kan rätta med källa; klena svarvade skruvar är fullt belagda
 18. Fyra ägare + "två i förening" firmateckning ⇒ prissätt inom VD:s löpande förvaltning; 95 kSEK är ett omdömesbeslut, inte ett styrelsebeslut
 
 19. **Brick-återbetalningen:** IR 2026/1788 rättade AD-TARIC-koder retroaktivt till feb 2022 — betald tull på gamla koder återbetalas. Konkret, ansökningsbar, och exakt den sortens bevakning retainern består av
@@ -32,6 +32,7 @@
 24. **E&K är ett 2006 grundat svensk-taiwanesiskt JV (ESMA × Kuntech)** — 20 års relation, inte ett nystartat inköpskontor: datavägen in till fabrikerna är på riktigt
 25. **Elmia Subcontractor 10–12 nov 2026** — given uppföljningsarena om fredagsmötet inte konverterar direkt
 
+25b. **Översynsfönstret har ett datum:** utgångsnotisen kom i EUT C 29 maj; en översynsbegäran måste inkomma senast **~18 nov 2026** — annars faller fästelements-AD 18 feb 2027. Sourcingbeslut och priser för 2027 hänger på vad som händer före mitten av november
 26. **Verifierargapet (nytt 28/8):** noll ackrediterade CBAM-verifierare i EU än; registrering öppnar 1 sep, arbetsåtkomst tidigast 30 sep. Beviset för "avstå actuals 2026" — och en daterad retaineruppgift: bevaka första listan, boka kapacitet tidigt inför 30/9 2027. Swedac är ett av fyra organ som tar tredjelandsförfrågningar — relevant för kinesiska anläggningar
 
 **Metainsikt:** sju regelverk (CBAM, 3g, REACH/SCIP, ELV, PPWR, ESPR/DPP, kundernas PCF) kräver samma artikelnivåregister — ingen bygger det åt dem, ingen intern roll finns. **CBAM är dörren; registret är huset; retainern är hyran.**

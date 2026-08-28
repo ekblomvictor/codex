@@ -13,7 +13,7 @@
 |---|---|---|
 | "7325 är utanför CBAM, 7326 innanför" | **Nu verifierat (konf. 85–90):** 7326 hela rubriken inne; 7325 ute i dag — **men föreslås in 2028** | Får sägas — med båda leden: *"gjutet ligger utanför i dag, men Kommissionen föreslår att det tas in 2028, så fönstret är tidsbegränsat"* |
 | ~~AD-ändringen juli 2026 okontrollerad~~ | **LÖST:** 2026/1788 = brick-kodrättelse med återbetalning; 2026/1785 = ny producent på 39,6 %. **Satserna 22,1/46,1/48,8/39,6/86,5 är oförändrade — får sägas rakt** | – |
-| "Svarvad skruv ≤6 mm är undantagen" | **Motstridiga läsningar** mellan verifieringsrundorna (sannolikt finns undantaget i art. 1.1 — konf. 92 — men oläst i original) | Nämn inte förrän art. 1.1 lästs (checklistan p. 1) |
+| "Svarvad skruv ≤6 mm är undantagen från AD" | **SLUTLIGT FEL (runda 5, konf. 90):** undantaget finns bara i gamla 91/2009 (+ UK-åtgärden) — INTE i 2022/191. Klena svarvade skruvar är fullt AD-belagda | Säg aldrig; rätta gärna en motpart som tror det (vanlig rådgivarmiss) |
 | "AD-satserna: Jinding 46,0 %" | Korrigerat: **46,1 %** | Använd 22,1 / 46,1 / 48,8 / 39,6 / 86,5 |
 | "Tullarna på fästelement försvann ju i våras" (om John säger det) | **Falskt kinesiskt narrativ** — 2026/701 var TARIC-housekeeping, åtgärderna gäller till 18/2 2027+ | Rätta varsamt med källa |
 | "Standardvärdet för kinesiskt stål är 3,167" | Det är **råstål/slab** — gäller inte färdiga fästelement | Säg "schablonen för färdigvaran" utan siffra |

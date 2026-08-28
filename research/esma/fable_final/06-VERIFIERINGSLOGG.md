@@ -41,8 +41,8 @@ Verdikt: ✅ BEKRÄFTAT · ✅⚠️ DELVIS · ❌ MOTBEVISAT · ❓ OLÖST
 | Undantag: rostfritt | ✅ | "other than of stainless steel" i art. 1 |
 | Undantag: rälsbefästning | ✅ | Bekräftat i scope-texten |
 | Undantag: coach screws; fristående muttrar ej i scope | ✅⚠️ (80) | Runda 1-citat av scope-texten: *"wood screws (excluding coach screws), self-tapping screws, other screws and bolts with heads …, and washers"* — muttrar ej uppräknade. Slutkontroll mot art. 1.1 (checklistan p. 1) |
-| MFN-tull 7318 ~3,7 %; 7616 10 ~6 % | ✅⚠️ | Sekundära tulldatabaser; bekräftas i TARIC (checklistan p. 4) |
-| **Undantag: svarvad skruv skaft ≤6 mm** | ⚠️ **MOTSTRIDIGT** | Runda 1-sökning: "ej återfunnet i 2022/191". Runda 2-agent: **finns i art. 1.1 (konf. 92)**. Sannolikt FINNS undantaget (konsistent med 723/2011-linjen), men **läs art. 1.1 direkt före användning**. Tills dess: nämn inte |
+| MFN-tull 7318 = **3,7 % enhetligt över hela rubriken** (15/16/22, inkl. 15 42/48) | ✅ (72) | Runda 5: bekräftat på rubriknivå, ingen radavvikelse funnen. 7616 10 = 6 % enligt KN, ej numeriskt dubbelkollad |
+| **Undantag: svarvad skruv skaft ≤6 mm** | ❌ **SLUTLIGT AVGJORT (runda 5, konf. 90): FINNS INTE i 2022/191** | Två oberoende extraktioner av konsoliderade art. 1.1 (02022R0191-20250729) saknar formuleringen; motkontroll visar att den finns i **gamla 91/2009** (och lever kvar i UK-åtgärden AD2108) — därav runda 2:s förväxling. **Praktisk följd: klena svarvade skruvar är fullt AD-belagda.** Fristående muttrar (7318 16) bekräftade utanför scope; brickor bekräftade INNE som egen kategori |
 | Stålförordning 2026/1384: 1/7 2026, 18 345 922 t, 50 %, 26 kategorier; fästelement utanför; reviews 31/12 2026 + 30/6 2027 | ✅ | + landkvoter: **IR 2026/1457** (29/6). **Melt-and-pour-bevis fasas in — krav från ~1 jan 2027** (konf. 82) |
 
 ## Nya fynd i runda 2 (handelspolitik)
@@ -54,6 +54,14 @@ Verdikt: ✅ BEKRÄFTAT · ✅⚠️ DELVIS · ❌ MOTBEVISAT · ❓ OLÖST
 
 ## ESMA-fakta (oförändrat bekräftade)
 354,3/343,7 MSEK 2024 · rörelseresultat 40,1 (stigande serie) · soliditet 52,1 % · 38 anst · 4 verkliga huvudmän inkl. **John Nyman** · John = "Key Account Manager, Partner" + **publikt CBAM-ansvarig (okt 2024, två rapporter)** · E&K Shenzhen · ESMA Hong Kong Ltd · EXW Stockholm-citatet · 32/39 länder · "flera tusen ton, ~50 % export" · ISO 14001 sedan 2006/Intertek · EcoVadis Silver · UNGC 158179 — samtliga ✅ mot register-/primärkällor i första rundan. ❌ RocketReach-uppgifterna (7,7 MUSD; "Area Manager China") förblir förkastade.
+
+## Runda 5 (2026-08-28, kväll) — en-sidans verifieringar
+| Fynd | Konf. | Not |
+|---|---|---|
+| ≤6 mm-frågan slutligt avgjord (se raden ovan — INTE i 2022/191) | 90 | Största kvarvarande osäkerheten stängd |
+| **Utgångsnotisen publicerad i EUT C-serien 29 maj 2026** (dokumentnr ej verifierat); **översynsbegäran måste inkomma senast ~18 nov 2026** (3 mån före utgång) | 70 | Ny daterad bevakningspunkt — avgörs i höst, precis som vi sagt |
+| Kina-default för 7318 15: **exakt siffra oåtkomlig** (alla primärkanaler blockerade); triangulerat spann **~3,5–6,0 tCO₂e/t före påslag** (~3,9–6,6 inkl. +10 %); jämförare: Vietnam 7318 15 88 = 3,025 inkl. påslag | 40 | En-sidan använder SPANN med central ~3,9; exakt värde läses i Kommissionens Excel före skarp leverans |
+| CBAM Registry-manualer publicerade **21/8 (deklarantportalen)** och **27/8 (verifierar-/operatörsportalen)** | 75 | Fullbordar augustis vägledningsvåg (tio dokument 14/8) |
 
 ## Runda 4 (2026-08-28, dagen för mötet) — verifierarläget
 | Fynd | Konf. | Not |
