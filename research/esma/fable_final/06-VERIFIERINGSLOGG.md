@@ -55,6 +55,15 @@ Verdikt: ✅ BEKRÄFTAT · ✅⚠️ DELVIS · ❌ MOTBEVISAT · ❓ OLÖST
 ## ESMA-fakta (oförändrat bekräftade)
 354,3/343,7 MSEK 2024 · rörelseresultat 40,1 (stigande serie) · soliditet 52,1 % · 38 anst · 4 verkliga huvudmän inkl. **John Nyman** · John = "Key Account Manager, Partner" + **publikt CBAM-ansvarig (okt 2024, två rapporter)** · E&K Shenzhen · ESMA Hong Kong Ltd · EXW Stockholm-citatet · 32/39 länder · "flera tusen ton, ~50 % export" · ISO 14001 sedan 2006/Intertek · EcoVadis Silver · UNGC 158179 — samtliga ✅ mot register-/primärkällor i första rundan. ❌ RocketReach-uppgifterna (7,7 MUSD; "Area Manager China") förblir förkastade.
 
+## Runda 4 (2026-08-28, dagen för mötet) — verifierarläget
+| Fynd | Konf. | Not |
+|---|---|---|
+| **Kommissionen publicerade 28/8 proceduren för verifierares åtkomst till CBAM-registret**: blivande verifierare registrerar sig från **1 sep 2026**; ackrediterade får arbetsåtkomst **tidigast 30 sep 2026**; ansökan via NCA i den medlemsstat där ackrediteringsorganet sitter, inom 2 mån från ackreditering | 90 | Kommissionens CBAM-verifieringssida + EU Economy & Finance |
+| **Noll verifierare formellt ackrediterade i hela EU per mitten av aug 2026**; 24 nationella ackrediteringsorgan erbjuder CBAM-ackreditering, 11 tar emot ansökningar; första ackrediteringarna väntas ~sep 2026, officiell lista publiceras då på Kommissionens sida | 88 | European Accreditation (EA-PDF maj 2026), cbamguide statusöversikt |
+| **Swedac tar emot ansökningar — och är ett av endast fyra organ som tar emot förfrågningar från tredjeland** | 85 | swedac.se + EA |
+
+**Vad detta bevisar för ESMA-rådgivningen:** vår linje *"actuals är irrationella 2026"* har nu ett operativt bevis — **ingen kunde ha fått actuals verifierade i år eftersom ingen ackrediterad verifierare existerar ännu**. Den som sålt "samla verifierade utsläppsdata nu" till ESMA i våras sålde något ogörligt. Rätt sekvens: ruttskattning via EN 10204 (E&K) nu → välj de få fabriker som är värda verifiering → **bevaka Kommissionens lista i höst och boka verifierarkapacitet tidigt** (knapp kapacitet före deklarationen 30/9 2027). Swedac-tredjelandsspåret är intressant för kinesiska anläggningar.
+
 ## Kommersiellt spår (runda 2) — verifierat
 | Fynd | Konf. | Not |
 |---|---|---|

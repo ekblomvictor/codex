@@ -32,4 +32,6 @@
 24. **E&K är ett 2006 grundat svensk-taiwanesiskt JV (ESMA × Kuntech)** — 20 års relation, inte ett nystartat inköpskontor: datavägen in till fabrikerna är på riktigt
 25. **Elmia Subcontractor 10–12 nov 2026** — given uppföljningsarena om fredagsmötet inte konverterar direkt
 
+26. **Verifierargapet (nytt 28/8):** noll ackrediterade CBAM-verifierare i EU än; registrering öppnar 1 sep, arbetsåtkomst tidigast 30 sep. Beviset för "avstå actuals 2026" — och en daterad retaineruppgift: bevaka första listan, boka kapacitet tidigt inför 30/9 2027. Swedac är ett av fyra organ som tar tredjelandsförfrågningar — relevant för kinesiska anläggningar
+
 **Metainsikt:** sju regelverk (CBAM, 3g, REACH/SCIP, ELV, PPWR, ESPR/DPP, kundernas PCF) kräver samma artikelnivåregister — ingen bygger det åt dem, ingen intern roll finns. **CBAM är dörren; registret är huset; retainern är hyran.**
